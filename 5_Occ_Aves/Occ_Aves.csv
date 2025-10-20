@@ -1,0 +1,891 @@
+﻿gbifID,scientificName,family,order,eventDate,basisOfRecord,decimalLatitude,decimalLongitude,stateProvince,datasetName,recordedBy,n_individuals
+5164111457,"Syndactyla rufosuperciliata (Lafresnaye, 1832)",Furnariidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,3
+5164092365,"Pygochelidon cyanoleuca (Vieillot, 1817)",Hirundinidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,1
+2171282047,"Stilpnia cayana (Linnaeus, 1766)",Thraupidae,Passeriformes,2016-10-15,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,4
+5070125975,"Hirundinea ferruginea (Gmelin, 1788)",Tyrannidae,Passeriformes,2025-02-14T18:01,HUMAN_OBSERVATION,-20.097911,-43.488289,Minas Gerais,iNaturalist research-grade observations,filipeprates,9
+3168866491,"Camptostoma obsoletum (Temminck, 1824)",Tyrannidae,Passeriformes,2020-07-31,HUMAN_OBSERVATION,-20.132963,-46.985428,Minas Gerais,,obsr280745,1
+3210052456,"Theristicus caudatus (Boddaert, 1783)",Threskiornithidae,Pelecaniformes,2020-12-21,HUMAN_OBSERVATION,-20.315615,-46.833275,Minas Gerais,,obsr1115302,10
+5164074455,"Chlorostilbon lucidus (Shaw, 1812)",Trochilidae,Apodiformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,1
+5467444692,"Xolmis velatus (Lichtenstein, 1823)",Tyrannidae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr2661064,7
+3173451554,"Alipiopsitta xanthops (Spix, 1824)",Psittacidae,Psittaciformes,2020-07-31,HUMAN_OBSERVATION,-20.132963,-46.985428,Minas Gerais,,obsr280745,10
+5164068382,"Chlorostilbon lucidus (Shaw, 1812)",Trochilidae,Apodiformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,10
+4814322853,"Fluvicola nengeta (Linnaeus, 1766)",Tyrannidae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,4
+3745700559,"Phaethornis pretrei (R.Lesson & Delattre, 1839)",Trochilidae,Apodiformes,1974-10-27,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,8
+5650130539,"Myiarchus ferox (Gmelin, 1789)",Tyrannidae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr3387929,1
+3745700231,"Schistochlamys ruficapillus (Vieillot, 1817)",Thraupidae,Passeriformes,1973-07-22,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,10
+5305767081,"Ardea alba Linnaeus, 1758",Ardeidae,Pelecaniformes,2024-02-14,HUMAN_OBSERVATION,-20.342585,-46.859455,Minas Gerais,,obsr4596723,8
+5840443771,"Trogon surrucura aurantius Spix, 1824",Trogonidae,Trogoniformes,2025-08-30T13:13,HUMAN_OBSERVATION,-20.101755,-43.493237,Minas Gerais,iNaturalist research-grade observations,Gabriel CAUCANAS,2
+5070116954,"Sporophila nigricollis (Vieillot, 1823)",Thraupidae,Passeriformes,2025-02-14T16:07,HUMAN_OBSERVATION,-20.105464,-43.477345,Minas Gerais,iNaturalist research-grade observations,filipeprates,3
+5164042328,"Caracara plancus (J.F.Miller, 1777)",Falconidae,Falconiformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,2
+3216036322,"Cathartes aura (Linnaeus, 1758)",Cathartidae,Accipitriformes,2020-12-20,HUMAN_OBSERVATION,-20.315615,-46.833275,Minas Gerais,,obsr1115302,2
+5634950193,"Ramphastos toco P.L.S.Müller, 1776",Ramphastidae,Piciformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr2661064,7
+3745699575,"Polystictus superciliaris (Wied-Neuwied, 1831)",Tyrannidae,Passeriformes,1973-07-20,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,2
+4681680839,"Vanellus chilensis (Molina, 1782)",Charadriidae,Charadriiformes,2023-08-23,HUMAN_OBSERVATION,-14.96894,-44.047916,Minas Gerais,,obsr1089201,9
+5391373977,"Theristicus caudatus (Boddaert, 1783)",Threskiornithidae,Pelecaniformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,7
+5164139447,"Pitangus sulphuratus (Linnaeus, 1766)",Tyrannidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,4
+3201070416,"Scytalopus novacapitalis Sick, 1958",Rhinocryptidae,Passeriformes,2020-07-31,HUMAN_OBSERVATION,-20.132963,-46.985428,Minas Gerais,,obsr280745,7
+3745699579,"Tangara cayana (Linnaeus, 1766)",Thraupidae,Passeriformes,1973-07-21,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Antônio Corrêa Filho,5
+5307013135,"Pitangus sulphuratus (Linnaeus, 1766)",Tyrannidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097754,-43.48859,Minas Gerais,,obsr1426674,10
+5164088377,Columba livia f. domestica,Columbidae,Columbiformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,6
+5406094794,"Patagioenas picazuro (Temminck, 1813)",Columbidae,Columbiformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,10
+5692746559,"Pitangus sulphuratus (Linnaeus, 1766)",Tyrannidae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,5
+2725417907,"Geothlypis velata (Vieillot, 1809)",Parulidae,Passeriformes,2016-10-15,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,5
+5070023135,"Augastes scutatus (Temminck, 1824)",Trochilidae,Apodiformes,2025-02-15T07:37,HUMAN_OBSERVATION,-20.101267,-43.500837,Minas Gerais,iNaturalist research-grade observations,filipeprates,10
+3745699366,"Saltator similis d'Orbigny & Lafresnaye, 1837",Thraupidae,Passeriformes,1976-09-21,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Luiz Otávio Marcondes Machado,1
+3171132908,"Patagioenas picazuro (Temminck, 1813)",Columbidae,Columbiformes,2020-07-31,HUMAN_OBSERVATION,-20.132963,-46.985428,Minas Gerais,,obsr280745,6
+5164019414,"Basileuterus culicivorus (Deppe, 1830)",Parulidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,1
+3745700131,"Elaenia obscura (Orbigny & Lafresnaye, 1837)",Tyrannidae,Passeriformes,1973-09-05,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,9
+5164004454,"Myiophobus fasciatus (Statius Muller, 1776)",Tyrannidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,10
+4740547392,"Geranoaetus melanoleucus (Vieillot, 1819)",Accipitridae,Accipitriformes,2023-11-05,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,3
+3174119682,"Colibri serrirostris (Vieillot, 1816)",Trochilidae,Apodiformes,2020-07-31,HUMAN_OBSERVATION,-20.132963,-46.985428,Minas Gerais,,obsr280745,4
+2800005017,"Elaenia cristata Pelzeln, 1868",Tyrannidae,Passeriformes,2016-10-16,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,10
+5070010199,"Augastes scutatus (Temminck, 1824)",Trochilidae,Apodiformes,2025-02-15T07:31,HUMAN_OBSERVATION,-20.101615,-43.500687,Minas Gerais,iNaturalist research-grade observations,filipeprates,8
+4717709764,"Sicalis flaveola (Linnaeus, 1766)",Thraupidae,Passeriformes,2023-11-03,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,4
+5621726905,"Alipiopsitta xanthops (Spix, 1824)",Psittacidae,Psittaciformes,2024-12-08,HUMAN_OBSERVATION,-20.340004,-46.8453,Minas Gerais,,obsr3387929,9
+5593258212,"Passer domesticus (Linnaeus, 1758)",Passeridae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.339453,-46.83927,Minas Gerais,,obsr3387929,3
+5070026056,"Synallaxis spixi P.L.Sclater, 1856",Furnariidae,Passeriformes,2025-02-14T17:06,HUMAN_OBSERVATION,-20.105637,-43.478529,Minas Gerais,iNaturalist research-grade observations,filipeprates,5
+5652688030,"Hylophilus amaurocephalus (Nordmann, 1835)",Vireonidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.643545,-43.52514,Minas Gerais,,obsr1359206,7
+5164008342,"Dacnis cayana (Linnaeus, 1766)",Thraupidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,9
+5646599130,"Rupornis magnirostris (Gmelin, 1788)",Accipitridae,Accipitriformes,2024-02-04,HUMAN_OBSERVATION,-19.643545,-43.52514,Minas Gerais,,obsr1359206,10
+5302891009,"Dysithamnus mentalis (Temminck, 1823)",Thamnophilidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097414,-43.485508,Minas Gerais,,obsr1426674,9
+5164004391,"Turdus rufiventris Vieillot, 1818",Turdidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,2
+5342057503,"Daptrius Vieillot, 1816",Falconidae,Falconiformes,2024-01-29,HUMAN_OBSERVATION,-20.098928,-43.49928,Minas Gerais,,obsr1426674,10
+3745700263,"Polystictus superciliaris (Wied-Neuwied, 1831)",Tyrannidae,Passeriformes,1973-07-23,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Antônio Corrêa Filho,5
+5164008309,"Cathartes aura (Linnaeus, 1758)",Cathartidae,Accipitriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,3
+5611338370,"Psittacara leucophthalmus (Müller & Pls, 1776)",Psittacidae,Psittaciformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,10
+5070129383,"Piranga flava (Vieillot, 1822)",Cardinalidae,Passeriformes,2025-02-15T13:49,HUMAN_OBSERVATION,-20.097857,-43.485995,Minas Gerais,iNaturalist research-grade observations,filipeprates,9
+5164084307,"Estrilda astrild (Linnaeus, 1758)",Estrildidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,10
+5327294336,"Xenops rutilans Temminck, 1821",Furnariidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097414,-43.485508,Minas Gerais,,obsr3066956,8
+5342714923,"Tangara cyanoventris (Vieillot, 1819)",Thraupidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.098928,-43.49928,Minas Gerais,,obsr306297,9
+3745699918,"Knipolegus lophotes Boie, 1828",Tyrannidae,Passeriformes,1974-12-11,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,8
+5708819199,"Hemithraupis ruficapilla (Vieillot, 1818)",Thraupidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.643545,-43.52514,Minas Gerais,,obsr1359206,4
+2726531777,"Rhopospina caerulescens (Wied-Neuwied, 1830)",Thraupidae,Passeriformes,2016-10-15,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,4
+5070076622,"Thraupis ornata (Sparrman, 1789)",Thraupidae,Passeriformes,2025-02-15T14:36,HUMAN_OBSERVATION,-20.096347,-43.481468,Minas Gerais,iNaturalist research-grade observations,filipeprates,4
+5164113467,"Thamnophilus caerulescens Vieillot, 1816",Thamnophilidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,9
+5164092468,"Trogon aurantius Spix, 1824",Trogonidae,Trogoniformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,4
+5070107939,"Turdus rufiventris Vieillot, 1818",Turdidae,Passeriformes,2025-02-14T17:47,HUMAN_OBSERVATION,-20.101123,-43.485263,Minas Gerais,iNaturalist research-grade observations,filipeprates,8
+5593878833,"Hirundinea ferruginea (Gmelin, 1788)",Tyrannidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.643545,-43.52514,Minas Gerais,,obsr1359206,3
+5839949272,"Schistochlamys ruficapillus (Vieillot, 1817)",Thraupidae,Passeriformes,2025-08-30T13:45,HUMAN_OBSERVATION,-20.104124,-43.493971,Minas Gerais,iNaturalist research-grade observations,Gabriel CAUCANAS,8
+4416746712,"Nystalus chacuru (Vieillot, 1816)",Bucconidae,Piciformes,2023-09-25T16:14:45,HUMAN_OBSERVATION,-20.41719,-46.802331,Minas Gerais,iNaturalist research-grade observations,roumazeilles,6
+5604032776,"Certhiaxis cinnamomeus (Gmelin, 1788)",Furnariidae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr2661064,6
+5070070423,"Casiornis rufus (Vieillot, 1816)",Tyrannidae,Passeriformes,2025-02-16T07:47,HUMAN_OBSERVATION,-20.097685,-43.490691,Minas Gerais,iNaturalist research-grade observations,filipeprates,8
+5521708318,"Nycticorax nycticorax (Linnaeus, 1758)",Ardeidae,Pelecaniformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr2661064,2
+5340414368,"Psittacara leucophthalmus (Müller & Pls, 1776)",Psittacidae,Psittaciformes,2024-01-06,HUMAN_OBSERVATION,-20.097754,-43.48859,Minas Gerais,,obsr1883460,8
+2713192986,"Elaenia chiriquensis Lawrence, 1865",Tyrannidae,Passeriformes,2016-10-15,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,4
+5507282312,"Euphonia chlorotica (Linnaeus, 1766)",Fringillidae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,3
+5305974345,"Patagioenas plumbea (Vieillot, 1818)",Columbidae,Columbiformes,2024-01-29,HUMAN_OBSERVATION,-20.098928,-43.49928,Minas Gerais,,obsr306297,10
+5578506063,"Phaethornis ruber (Linnaeus, 1758)",Trochilidae,Apodiformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,4
+3745700088,"Ammodramus humeralis (Bosc, 1792)",Passerellidae,Passeriformes,1974-11-07,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,2
+3172123591,"Nothura maculosa (Temminck, 1815)",Tinamidae,Tinamiformes,2020-07-31,HUMAN_OBSERVATION,-20.132963,-46.985428,Minas Gerais,,obsr280745,6
+5686811920,"Sicalis flaveola (Linnaeus, 1766)",Thraupidae,Passeriformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,5
+5307374459,"Mimus saturninus (Lichtenstein, 1823)",Mimidae,Passeriformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,7
+5413973108,"Sicalis flaveola (Linnaeus, 1766)",Thraupidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,7
+4841398453,"Pionus maximiliani (Kuhl, 1820)",Psittacidae,Psittaciformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,8
+5164122371,"Dacnis cayana (Linnaeus, 1766)",Thraupidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,6
+5306419684,"Sporophila lineola (Linnaeus, 1758)",Thraupidae,Passeriformes,2024-02-14,HUMAN_OBSERVATION,-20.342585,-46.859455,Minas Gerais,,obsr4596723,1
+5370656719,"Sicalis flaveola (Linnaeus, 1766)",Thraupidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097754,-43.48859,Minas Gerais,,obsr1426674,2
+4814659223,"Ramphocelus carbo (Pallas, 1764)",Thraupidae,Passeriformes,2023-11-05,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,7
+3210613298,"Colibri serrirostris (Vieillot, 1816)",Trochilidae,Apodiformes,2020-12-20,HUMAN_OBSERVATION,-20.315615,-46.833275,Minas Gerais,,obsr1115302,8
+5526842499,"Cacicus haemorrhous (Linnaeus, 1766)",Icteridae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,1
+4729092832,"Buteogallus meridionalis (Latham, 1790)",Accipitridae,Accipitriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,8
+3745700247,"Polystictus superciliaris (Wied-Neuwied, 1831)",Tyrannidae,Passeriformes,1973-07-23,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Antônio Corrêa Filho,2
+5635541398,"Rostrhamus sociabilis (Vieillot, 1817)",Accipitridae,Accipitriformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr3387929,6
+5164030373,"Pionus maximiliani (Kuhl, 1820)",Psittacidae,Psittaciformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,1
+5698331055,"Crotophaga ani Linnaeus, 1758",Cuculidae,Cuculiformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,6
+3213115704,"Stilpnia cayana (Linnaeus, 1766)",Thraupidae,Passeriformes,2020-12-20,HUMAN_OBSERVATION,-20.315615,-46.833275,Minas Gerais,,obsr1115302,10
+5452538603,"Pyrocephalus rubinus (Boddaert, 1783)",Tyrannidae,Passeriformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,4
+3745700109,"Hydropsalis torquata (J.F.Gmelin, 1789)",Caprimulgidae,Caprimulgiformes,1973-12-18,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,5
+5322752368,"Lepidocolaptes squamatus (Lichtenstein, 1822)",Furnariidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.098928,-43.49928,Minas Gerais,,obsr3066956,4
+3225069407,"Passer domesticus (Linnaeus, 1758)",Passeridae,Passeriformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1127182,1
+5422908277,"Pygochelidon cyanoleuca (Vieillot, 1817)",Hirundinidae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.339453,-46.83927,Minas Gerais,,obsr2661064,3
+4678473110,"Phaethornis pretrei (R.Lesson & Delattre, 1839)",Trochilidae,Apodiformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,5
+4730188722,"Colibri serrirostris (Vieillot, 1816)",Trochilidae,Apodiformes,2023-11-05,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,1
+4714841994,"Tangara cyanoventris (Vieillot, 1819)",Thraupidae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,1
+5661554796,"Pygochelidon cyanoleuca (Vieillot, 1817)",Hirundinidae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.339453,-46.83927,Minas Gerais,,obsr3387929,5
+5230670285,"Pyrocephalus rubinus (Boddaert, 1783)",Tyrannidae,Passeriformes,2025-07-20T17:00:53,HUMAN_OBSERVATION,-20.341902,-46.85638,Minas Gerais,iNaturalist research-grade observations,Bhianca,10
+5070046268,"Augastes scutatus (Temminck, 1824)",Trochilidae,Apodiformes,2025-02-15T07:38,HUMAN_OBSERVATION,-20.101528,-43.500559,Minas Gerais,iNaturalist research-grade observations,filipeprates,8
+5614595073,"Machetornis rixosa (Vieillot, 1819)",Tyrannidae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr2661064,7
+5582858621,"Chrysomus ruficapillus (Vieillot, 1819)",Icteridae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,3
+3232990404,"Patagioenas picazuro (Temminck, 1813)",Columbidae,Columbiformes,2020-02-22,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1127182,5
+5536534199,"Tersina viridis (Illiger, 1811)",Thraupidae,Passeriformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,7
+5381161064,"Myiothlypis flaveola S.F.Baird, 1865",Parulidae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,3
+4614734588,"Pyrrhura frontalis (Vieillot, 1818)",Psittacidae,Psittaciformes,2023-11-05,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,7
+3745700195,"Cranioleuca pallida (Wied-Neuwied, 1831)",Furnariidae,Passeriformes,1973-07-25,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,7
+5317577476,"Pitangus sulphuratus (Linnaeus, 1766)",Tyrannidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.643545,-43.52514,Minas Gerais,,obsr1359206,9
+5230118430,"Knipolegus nigerrimus (Vieillot, 1818)",Tyrannidae,Passeriformes,2025-07-09T07:44,HUMAN_OBSERVATION,-20.097805,-43.488971,Minas Gerais,iNaturalist research-grade observations,bzyborski,1
+5299637902,"Psarocolius decumanus (Pallas, 1769)",Icteridae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,9
+5317577488,"Fluvicola nengeta (Linnaeus, 1766)",Tyrannidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,3
+5070056541,"Cissopis leverianus (J.F.Gmelin, 1788)",Thraupidae,Passeriformes,2025-02-15T13:15,HUMAN_OBSERVATION,-20.097203,-43.488775,Minas Gerais,iNaturalist research-grade observations,filipeprates,8
+5164039384,"Contopus cinereus (Spix, 1825)",Tyrannidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,5
+3745700198,"Nystalus chacuru (Vieillot, 1816)",Bucconidae,Piciformes,1973-07-26,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,6
+5070061538,"Hirundinea ferruginea (Gmelin, 1788)",Tyrannidae,Passeriformes,2025-02-15T17:34,HUMAN_OBSERVATION,-20.097522,-43.488551,Minas Gerais,iNaturalist research-grade observations,filipeprates,4
+5392507724,"Volatinia jacarina (Linnaeus, 1766)",Thraupidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.635796,-43.524536,Minas Gerais,,obsr1359206,6
+5164102351,"Schistochlamys ruficapillus (Vieillot, 1817)",Thraupidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,5
+5440564054,"Pitangus sulphuratus (Linnaeus, 1766)",Tyrannidae,Passeriformes,2024-12-08,HUMAN_OBSERVATION,-20.343323,-46.847748,Minas Gerais,,obsr3387929,4
+5164027394,"Pardirallus nigricans (Vieillot, 1819)",Rallidae,Gruiformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,3
+5070064340,"Thraupis ornata (Sparrman, 1789)",Thraupidae,Passeriformes,2025-02-16T07:46,HUMAN_OBSERVATION,-20.097677,-43.490576,Minas Gerais,iNaturalist research-grade observations,filipeprates,3
+5651872422,"Fluvicola nengeta (Linnaeus, 1766)",Tyrannidae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr3387929,6
+3745699578,"Knipolegus lophotes Boie, 1828",Tyrannidae,Passeriformes,1973-07-20,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Antônio Corrêa Filho,7
+5584211610,"Sporophila caerulescens (Vieillot, 1823)",Thraupidae,Passeriformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,1
+5164107333,"Tangara sayaca (Linnaeus, 1766)",Thraupidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,5
+4636649719,"Euphonia chlorotica (Linnaeus, 1766)",Fringillidae,Passeriformes,2023-11-05,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,7
+5166889182,"Ardea alba Linnaeus, 1758",Ardeidae,Pelecaniformes,2025-05-13T07:37,HUMAN_OBSERVATION,-19.527758,-43.726364,Minas Gerais,iNaturalist research-grade observations,Túlio Torres,9
+5464074821,"Rupornis magnirostris (Gmelin, 1788)",Accipitridae,Accipitriformes,2024-12-07,HUMAN_OBSERVATION,-20.339453,-46.83927,Minas Gerais,,obsr2661064,9
+3222127905,"Brotogeris chiriri (Vieillot, 1818)",Psittacidae,Psittaciformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1211577,5
+4835498016,"Elaenia flavogaster (Thunberg, 1822)",Tyrannidae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,2
+5070126536,"Coereba flaveola (Linnaeus, 1758)",Thraupidae,Passeriformes,2025-02-15T13:46,HUMAN_OBSERVATION,-20.097936,-43.489062,Minas Gerais,iNaturalist research-grade observations,filipeprates,4
+5393130109,"Tachornis squamata (Cassin, 1853)",Apodidae,Apodiformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr2661064,1
+4742073718,"Stilpnia cayana (Linnaeus, 1766)",Thraupidae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,2
+5308870852,"Saltator similis d'Orbigny & Lafresnaye, 1837",Thraupidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.098928,-43.49928,Minas Gerais,,obsr306297,5
+3745699360,"Zonotrichia capensis (P.L.S.Müller, 1776)",Passerellidae,Passeriformes,1976-09-24,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Luiz Otávio Marcondes Machado,6
+5648677757,"Columbina talpacoti (Temminck, 1810)",Columbidae,Columbiformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,3
+5354746374,"Emberizoides herbicola (Vieillot, 1817)",Thraupidae,Passeriformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,9
+5665432448,"Patagioenas picazuro (Temminck, 1813)",Columbidae,Columbiformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr2661064,6
+5164045395,"Chlorophonia cyanea (Thunberg, 1822)",Fringillidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,2
+5345386871,"Chionomesa lactea (R.Lesson, 1832)",Trochilidae,Apodiformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,1
+5342029138,"Pitangus sulphuratus (Linnaeus, 1766)",Tyrannidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097414,-43.485508,Minas Gerais,,obsr1426674,8
+5399399077,"Todirostrum poliocephalum (Wied-Neuwied, 1831)",Tyrannidae,Passeriformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,3
+2723306935,"Thalurania furcata (J.F.Gmelin, 1788)",Trochilidae,Apodiformes,2016-10-14,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,3
+3745700094,"Tangara cayana (Linnaeus, 1766)",Thraupidae,Passeriformes,1974-02-06,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,4
+5652126381,"Guira guira (Gmelin, 1788)",Cuculidae,Cuculiformes,2024-12-08,HUMAN_OBSERVATION,-20.343323,-46.847748,Minas Gerais,,obsr3387929,8
+5070144473,"Tangara desmaresti (Vieillot, 1819)",Thraupidae,Passeriformes,2025-02-15T09:44,HUMAN_OBSERVATION,-20.098024,-43.489084,Minas Gerais,iNaturalist research-grade observations,filipeprates,2
+5164022369,"Embernagra longicauda Strickland, 1844",Thraupidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,8
+5164033339,"Hemithraupis ruficapilla (Vieillot, 1818)",Thraupidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,9
+3745699940,"Embernagra longicauda Strickland, 1844",Thraupidae,Passeriformes,1974-04-07,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,6
+3745700567,"Eupetomena macroura (J.F.Gmelin, 1788)",Trochilidae,Apodiformes,1973-02-18,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,3
+5164015354,"Crypturellus obsoletus (Temminck, 1815)",Tinamidae,Tinamiformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,3
+4734671874,"Guira guira (Gmelin, 1788)",Cuculidae,Cuculiformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,6
+1269822645,"Eupetomena macroura (J.F.Gmelin, 1788)",Trochilidae,Apodiformes,,PRESERVED_SPECIMEN,-19.5,-43.75,Mg,Coleção de Aves do Museu Nacional (MN),Observador Simulado,4
+5418573298,"Icterus pyrrhopterus (Vieillot, 1819)",Icteridae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,1
+4805427264,"Patagioenas cayennensis (Bonnaterre, 1792)",Columbidae,Columbiformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,5
+5304863069,"Thraupis sayaca (Linnaeus, 1766)",Thraupidae,Passeriformes,2024-01-06,HUMAN_OBSERVATION,-20.097754,-43.48859,Minas Gerais,,obsr1883460,4
+5696991155,"Colaptes campestris (Vieillot, 1818)",Picidae,Piciformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,5
+5164108492,"Phylloscartes ventralis (Temminck, 1824)",Tyrannidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,10
+4805582316,"Euphonia chlorotica (Linnaeus, 1766)",Fringillidae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,8
+3745699359,"Schistochlamys ruficapillus (Vieillot, 1817)",Thraupidae,Passeriformes,1976-09-21,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Luiz Otávio Marcondes Machado,3
+3745700091,"Nystalus chacuru (Vieillot, 1816)",Bucconidae,Piciformes,1973-12-17,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,4
+5533066127,"Coryphospingus pileatus (Wied-Neuwied, 1821)",Thraupidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.643545,-43.52514,Minas Gerais,,obsr1359206,6
+5070067563,"Schistochlamys ruficapillus (Vieillot, 1817)",Thraupidae,Passeriformes,2025-02-16T07:58,HUMAN_OBSERVATION,-20.097192,-43.490872,Minas Gerais,iNaturalist research-grade observations,filipeprates,10
+5163993365,"Machetornis rixosa (Vieillot, 1819)",Tyrannidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,4
+5164056394,"Zonotrichia capensis (P.L.S.Müller, 1776)",Passerellidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,7
+3745700133,"Nystalus chacuru (Vieillot, 1816)",Bucconidae,Piciformes,1973-10-30,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,7
+5549684425,"Sporophila ardesiaca (A.J.C.Dubois, 1894)",Thraupidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,8
+5715357195,"Theristicus caudatus (Boddaert, 1783)",Threskiornithidae,Pelecaniformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,9
+5437582699,"Glaucidium brasilianum (J.F.Gmelin, 1788)",Strigidae,Strigiformes,2024-12-08,HUMAN_OBSERVATION,-20.343323,-46.847748,Minas Gerais,,obsr3387929,2
+5063289815,"Caracara plancus (J.F.Miller, 1777)",Falconidae,Falconiformes,2025-01-13T11:09,HUMAN_OBSERVATION,-20.096633,-43.493351,Minas Gerais,iNaturalist research-grade observations,Diego Rolim,7
+5684170093,"Euphonia chlorotica (Linnaeus, 1766)",Fringillidae,Passeriformes,2024-02-14,HUMAN_OBSERVATION,-20.342585,-46.859455,Minas Gerais,,obsr4596723,10
+4286930802,"Cyanocorax cristatellus (Temminck, 1823)",Corvidae,Passeriformes,2022-08-21,HUMAN_OBSERVATION,-19.488182,-43.732853,Minas Gerais,,obsr122172,9
+3745700169,"Lochmias nematura nematura (Lichtenstein, 1823)",Furnariidae,Passeriformes,1973-12-17,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,5
+5168402102,"Columbina talpacoti (Temminck, 1810)",Columbidae,Columbiformes,2025-05-14T09:30,HUMAN_OBSERVATION,-19.528956,-43.725811,Minas Gerais,iNaturalist research-grade observations,Túlio Torres,5
+5299413449,"Passer domesticus (Linnaeus, 1758)",Passeridae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,7
+5474523498,"Nemosia pileata (Boddaert, 1783)",Thraupidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.643545,-43.52514,Minas Gerais,,obsr1359206,7
+5070084494,"Hirundinea ferruginea (Gmelin, 1788)",Tyrannidae,Passeriformes,2025-02-15T09:29,HUMAN_OBSERVATION,-20.098377,-43.489015,Minas Gerais,iNaturalist research-grade observations,filipeprates,8
+5437055612,"Crypturellus parvirostris (Wagler, 1827)",Tinamidae,Tinamiformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,8
+4816016589,"Myiozetetes similis (Spix, 1825)",Tyrannidae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,4
+2248727726,"Phacellodomus Reichenbach, 1853",Furnariidae,Passeriformes,2003-04-25,MATERIAL_SAMPLE,-19.5,-43.73333,Minas Gerais,,Beatriz Aquino Ribeiro,2
+5206499191,"Hirundinea ferruginea (Gmelin, 1788)",Tyrannidae,Passeriformes,2025-04-27T10:57,HUMAN_OBSERVATION,-20.097455,-43.488465,Minas Gerais,iNaturalist research-grade observations,WD,7
+5340913139,"Dysithamnus mentalis (Temminck, 1823)",Thamnophilidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097414,-43.485508,Minas Gerais,,obsr3066956,7
+3745700062,"Schistochlamys ruficapillus (Vieillot, 1817)",Thraupidae,Passeriformes,1974-02-08,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,8
+3745700197,"Geothlypis aequinoctialis (J.F.Gmelin, 1789)",Parulidae,Passeriformes,1973-07-20,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Antônio Corrêa Filho,7
+5164053406,"Certhiaxis cinnamomeus (Gmelin, 1788)",Furnariidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,2
+4814322765,"Tachyphonus coronatus (Vieillot, 1822)",Thraupidae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,4
+5070092549,"Phylloscartes ventralis (Temminck, 1824)",Tyrannidae,Passeriformes,2025-02-15T14:17,HUMAN_OBSERVATION,-20.095438,-43.483188,Minas Gerais,iNaturalist research-grade observations,filipeprates,8
+5164054404,"Synallaxis ruficapilla Vieillot, 1819",Furnariidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,10
+3745700186,"Conopophaga lineata lineata (Wied-Neuwied, 1831)",Conopophagidae,Passeriformes,1973-07-26,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Antônio Corrêa Filho,5
+4805427223,"Patagioenas picazuro (Temminck, 1813)",Columbidae,Columbiformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,3
+5070023136,"Rupornis magnirostris (Gmelin, 1788)",Accipitridae,Accipitriformes,2025-02-15T06:32,HUMAN_OBSERVATION,-20.102867,-43.50059,Minas Gerais,iNaturalist research-grade observations,filipeprates,8
+5326352560,"Daptrius Vieillot, 1816",Falconidae,Falconiformes,2024-12-07,HUMAN_OBSERVATION,-20.339453,-46.83927,Minas Gerais,,obsr2661064,10
+5164089498,"Megarynchus pitangua (Linnaeus, 1766)",Tyrannidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,7
+3216417455,"Tyrannus melancholicus Vieillot, 1819",Tyrannidae,Passeriformes,2020-12-20,HUMAN_OBSERVATION,-20.315615,-46.833275,Minas Gerais,,obsr1115302,6
+5164097318,"Crotophaga ani Linnaeus, 1758",Cuculidae,Cuculiformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,3
+5167268046,"Sicalis flaveola (Linnaeus, 1766)",Thraupidae,Passeriformes,2025-05-26T16:02,HUMAN_OBSERVATION,-20.098329,-43.48806,Minas Gerais,iNaturalist research-grade observations,AJDeberdt,1
+5647559914,"Zonotrichia capensis (P.L.S.Müller, 1776)",Passerellidae,Passeriformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,1
+5164098382,"Hylophilus amaurocephalus (Nordmann, 1835)",Vireonidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,3
+5164113333,"Basileuterus culicivorus (Deppe, 1830)",Parulidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,2
+5297641068,"Xolmis velatus (Lichtenstein, 1823)",Tyrannidae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr3387929,10
+5164101403,"Contopus cinereus (Spix, 1825)",Tyrannidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,4
+4843512285,"Caracara plancus (J.F.Miller, 1777)",Falconidae,Falconiformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,9
+5344728017,"Dacnis cayana (Linnaeus, 1766)",Thraupidae,Passeriformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,4
+5164004318,"Ilicura militaris (Shaw, 1809)",Pipridae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,1
+5164112474,"Mimus saturninus (Lichtenstein, 1823)",Mimidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,6
+3988540914,"Cistothorus platensis (Latham, 1790)",Troglodytidae,Passeriformes,2022-07-23T10:28,HUMAN_OBSERVATION,-20.151847,-47.02587,Minas Gerais,iNaturalist research-grade observations,Wagner Teixeira Florentino,2
+5164085382,"Eupetomena macroura (J.F.Gmelin, 1788)",Trochilidae,Apodiformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,8
+5466407993,"Florisuga fusca (Vieillot, 1817)",Trochilidae,Apodiformes,2024-02-04,HUMAN_OBSERVATION,-19.643545,-43.52514,Minas Gerais,,obsr1359206,9
+5164143337,"Penelope obscura Temminck, 1815",Cracidae,Galliformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,7
+4658213893,"Tyrannus savana Vieillot, 1808",Tyrannidae,Passeriformes,2023-11-05,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,10
+3347497489,"Phacellodomus rufifrons (Wied-Neuwied, 1821)",Furnariidae,Passeriformes,2003-04-25,PRESERVED_SPECIMEN,-19.5,-43.73,,,Beatriz Aquino Ribeiro,6
+5316012717,"Emberizoides herbicola (Vieillot, 1817)",Thraupidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,10
+5168306904,"Fluvicola nengeta (Linnaeus, 1766)",Tyrannidae,Passeriformes,2025-05-14T09:27,HUMAN_OBSERVATION,-19.529539,-43.725506,Minas Gerais,iNaturalist research-grade observations,Túlio Torres,2
+4738603120,"Tachycineta leucorrhoa (Vieillot, 1817)",Hirundinidae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,2
+5164126399,"Pyriglena leucoptera (Vieillot, 1818)",Thamnophilidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,6
+3745700193,"Basileuterus culicivorus (Deppe, 1830)",Parulidae,Passeriformes,1973-07-26,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Antônio Corrêa Filho,2
+5373062697,"Satrapa icterophrys (Vieillot, 1818)",Tyrannidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,2
+5340644253,"Penelope obscura Temminck, 1815",Cracidae,Galliformes,2024-01-29,HUMAN_OBSERVATION,-20.097754,-43.48859,Minas Gerais,,obsr3066956,10
+5375287175,"Forpus xanthopterygius (Spix, 1824)",Psittacidae,Psittaciformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,3
+5317664970,"Dysithamnus mentalis (Temminck, 1823)",Thamnophilidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097414,-43.485508,Minas Gerais,,obsr306297,8
+5346678564,"Crypturellus obsoletus (Temminck, 1815)",Tinamidae,Tinamiformes,2024-01-05,HUMAN_OBSERVATION,-20.1026,-43.494,Minas Gerais,,obsr398519,1
+5675181610,"Phacellodomus rufifrons (Wied-Neuwied, 1821)",Furnariidae,Passeriformes,2022-10-12,HUMAN_OBSERVATION,-20.317621,-46.837254,Minas Gerais,,obsr3010636,6
+5164113357,"Chaetura cinereiventris P.L.Sclater, 1862",Apodidae,Apodiformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,2
+3223847315,"Thraupis sayaca (Linnaeus, 1766)",Thraupidae,Passeriformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1127182,10
+5828580787,"Aramides cajanea (Statius Muller, 1776)",Rallidae,Gruiformes,2021-09-30T06:02,HUMAN_OBSERVATION,-19.51962,-43.742381,Minas Gerais,iNaturalist research-grade observations,Túlio Torres,4
+5164059345,"Columbina talpacoti (Temminck, 1810)",Columbidae,Columbiformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,6
+5163990460,"Fluvicola nengeta (Linnaeus, 1766)",Tyrannidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,8
+5616287663,"Pseudoleistes guirahuro (Vieillot, 1819)",Icteridae,Passeriformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,9
+4738319375,"Ramphastos toco P.L.S.Müller, 1776",Ramphastidae,Piciformes,2023-11-03,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,10
+3745700071,"Thamnophilus caerulescens Vieillot, 1816",Thamnophilidae,Passeriformes,1974-02-10,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,7
+5164149322,"Campephilus robustus (M.H.K.Lichtenstein, 1818)",Picidae,Piciformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,10
+5586071428,"Sicalis luteola (Sparrman, 1789)",Thraupidae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.339453,-46.83927,Minas Gerais,,obsr3387929,5
+4619842257,"Turdus rufiventris Vieillot, 1818",Turdidae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,8
+5164078414,"Phaeomyias murina (Spix, 1825)",Tyrannidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,1
+5313069063,"Brotogeris chiriri (Vieillot, 1818)",Psittacidae,Psittaciformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,6
+5300813723,"Tyto furcata (Temminck, 1827)",Tytonidae,Strigiformes,2024-12-07,HUMAN_OBSERVATION,-20.343243,-46.847675,Minas Gerais,,obsr2661064,6
+5164072462,"Caracara plancus (J.F.Miller, 1777)",Falconidae,Falconiformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,9
+5164103350,"Penelope obscura Temminck, 1815",Cracidae,Galliformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,2
+5305526110,"Certhiaxis cinnamomeus (Gmelin, 1788)",Furnariidae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr3387929,5
+5164063409,"Pitangus sulphuratus (Linnaeus, 1766)",Tyrannidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,1
+5163991445,"Psittacara leucophthalmus (Müller & Pls, 1776)",Psittacidae,Psittaciformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,9
+5548348462,"Amazona aestiva (Linnaeus, 1758)",Psittacidae,Psittaciformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,8
+4816057875,"Zenaida auriculata (Des Murs, 1847)",Columbidae,Columbiformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,5
+5417339178,"Phyllomyias fasciatus (Thunberg, 1822)",Tyrannidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.643545,-43.52514,Minas Gerais,,obsr1359206,8
+5164010510,"Hirundinea ferruginea (Gmelin, 1788)",Tyrannidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,5
+3745700553,"Augastes scutatus (Temminck, 1824)",Trochilidae,Apodiformes,1973-07-21,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Antônio Corrêa Filho,9
+3745699928,"Gnorimopsar chopi (Vieillot, 1819)",Icteridae,Passeriformes,1973-12-12,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,2
+4802927552,"Synallaxis spixi P.L.Sclater, 1856",Furnariidae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,4
+2790678195,"Colaptes campestris (Vieillot, 1818)",Picidae,Piciformes,2016-10-15,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,3
+5366754153,"Psarocolius decumanus (Pallas, 1769)",Icteridae,Passeriformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,2
+5653961205,"Rupornis magnirostris (Gmelin, 1788)",Accipitridae,Accipitriformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,6
+5605757238,"Jacana jacana (Linnaeus, 1766)",Jacanidae,Charadriiformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr3387929,4
+5070075477,"Tangara desmaresti (Vieillot, 1819)",Thraupidae,Passeriformes,2025-02-15T09:44,HUMAN_OBSERVATION,-20.098516,-43.488889,Minas Gerais,iNaturalist research-grade observations,filipeprates,5
+5069999729,"Tyrannus melancholicus Vieillot, 1819",Tyrannidae,Passeriformes,2025-02-14T17:19,HUMAN_OBSERVATION,-20.101789,-43.484623,Minas Gerais,iNaturalist research-grade observations,filipeprates,9
+2182790391,"Stilpnia cayana (Linnaeus, 1766)",Thraupidae,Passeriformes,2016-10-14,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,4
+5164141416,"Tangara cyanoventris (Vieillot, 1819)",Thraupidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,7
+5336723317,"Lepidocolaptes squamatus (Lichtenstein, 1822)",Furnariidae,Passeriformes,2024-01-08,HUMAN_OBSERVATION,-20.097673,-43.48922,Minas Gerais,,obsr398519,7
+5164096433,"Tangara sayaca (Linnaeus, 1766)",Thraupidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,6
+5298602821,"Herpsilochmus atricapillus Pelzeln, 1868",Thamnophilidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.098928,-43.49928,Minas Gerais,,obsr3066956,9
+3210253361,"Lepidocolaptes angustirostris (Vieillot, 1818)",Furnariidae,Passeriformes,2020-12-21,HUMAN_OBSERVATION,-20.315615,-46.833275,Minas Gerais,,obsr1115302,8
+5672815217,"Passer domesticus (Linnaeus, 1758)",Passeridae,Passeriformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,9
+4843491297,"Psittacara leucophthalmus (Müller & Pls, 1776)",Psittacidae,Psittaciformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,8
+5344490226,"Cranioleuca pallida (Wied-Neuwied, 1831)",Furnariidae,Passeriformes,2024-01-27,HUMAN_OBSERVATION,-20.15265,-43.520786,Minas Gerais,,obsr753626,7
+5070124211,"Augastes scutatus (Temminck, 1824)",Trochilidae,Apodiformes,2025-02-15T06:46,HUMAN_OBSERVATION,-20.101628,-43.501009,Minas Gerais,iNaturalist research-grade observations,filipeprates,6
+5301526858,"Patagioenas plumbea (Vieillot, 1818)",Columbidae,Columbiformes,2024-01-29,HUMAN_OBSERVATION,-20.098928,-43.49928,Minas Gerais,,obsr1426674,9
+5506898545,"Colaptes campestris (Vieillot, 1818)",Picidae,Piciformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,3
+5164129394,"Basileuterus hypoleucus Bonaparte, 1850",Parulidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,4
+5164024379,"Phyllomyias griseocapilla P.L.Sclater, 1862",Tyrannidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,7
+5164023343,"Coragyps atratus (Bechstein, 1793)",Cathartidae,Accipitriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,5
+3284215343,"Syrigma sibilatrix (Temminck, 1824)",Ardeidae,Pelecaniformes,2020-12-20,HUMAN_OBSERVATION,-20.315615,-46.833275,Minas Gerais,,obsr1115302,7
+3350559687,"Lepidocolaptes angustirostris (Vieillot, 1818)",Furnariidae,Passeriformes,2001-12-28,PRESERVED_SPECIMEN,-19.5,-43.73,,,Beatriz Aquino Ribeiro,7
+4619842217,"Columbina squammata (R.Lesson, 1831)",Columbidae,Columbiformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,10
+5675884291,"Geothlypis velata (Vieillot, 1809)",Parulidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,3
+5231246209,"Serpophaga nigricans (Vieillot, 1817)",Tyrannidae,Passeriformes,2025-07-09T23:53:48,HUMAN_OBSERVATION,-20.096816,-43.488203,Minas Gerais,iNaturalist research-grade observations,bzyborski,3
+5608777379,"Pitangus sulphuratus (Linnaeus, 1766)",Tyrannidae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr2661064,8
+2171286504,"Thamnophilus caerulescens Vieillot, 1816",Thamnophilidae,Passeriformes,2016-10-16,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,5
+3745700114,"Turdus rufiventris Vieillot, 1818",Turdidae,Passeriformes,1974-02-10,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Antônio Corrêa Filho,4
+5070139555,"Stilpnia cayana (Linnaeus, 1766)",Thraupidae,Passeriformes,2025-02-15T09:41,HUMAN_OBSERVATION,-20.098145,-43.489145,Minas Gerais,iNaturalist research-grade observations,filipeprates,4
+5684823946,"Fluvicola nengeta (Linnaeus, 1766)",Tyrannidae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,10
+2171286553,"Saltatricula atricollis (Vieillot, 1817)",Thraupidae,Passeriformes,2016-10-14,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,8
+4786873731,"Athene cunicularia (Molina, 1782)",Strigidae,Strigiformes,2023-08-23,HUMAN_OBSERVATION,-14.96894,-44.047916,Minas Gerais,,obsr1089201,1
+3745700203,"Elaenia obscura (Orbigny & Lafresnaye, 1837)",Tyrannidae,Passeriformes,1973-07-25,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Antônio Corrêa Filho,9
+5063305903,"Sicalis flaveola (Linnaeus, 1766)",Thraupidae,Passeriformes,2025-01-13T14:18,HUMAN_OBSERVATION,-20.09887,-43.487408,Minas Gerais,iNaturalist research-grade observations,Diego Rolim,1
+5512918237,"Patagioenas picazuro (Temminck, 1813)",Columbidae,Columbiformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,8
+5070102512,"Zonotrichia capensis (P.L.S.Müller, 1776)",Passerellidae,Passeriformes,2025-02-16T07:33,HUMAN_OBSERVATION,-20.09832,-43.499695,Minas Gerais,iNaturalist research-grade observations,filipeprates,7
+5164060365,"Colaptes melanochloros (J.F.Gmelin, 1788)",Picidae,Piciformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,8
+4731019824,"Sicalis citrina Pelzeln, 1870",Thraupidae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,10
+5330921500,"Psittacara leucophthalmus (Müller & Pls, 1776)",Psittacidae,Psittaciformes,2024-01-29,HUMAN_OBSERVATION,-20.097754,-43.48859,Minas Gerais,,obsr3066956,3
+1269823291,"Eupetomena macroura (J.F.Gmelin, 1788)",Trochilidae,Apodiformes,,PRESERVED_SPECIMEN,-19.5,-43.75,Mg,Coleção de Aves do Museu Nacional (MN),Observador Simulado,2
+5652165791,"Machetornis rixosa (Vieillot, 1819)",Tyrannidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,4
+2714631959,"Phacellodomus rufifrons (Wied-Neuwied, 1821)",Furnariidae,Passeriformes,2016-10-15,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,7
+5304755646,"Myiozetetes cayanensis (Linnaeus, 1766)",Tyrannidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097414,-43.485508,Minas Gerais,,obsr306297,8
+5076978588,"Penelope obscura Temminck, 1815",Cracidae,Galliformes,2025-02-15T10:16,HUMAN_OBSERVATION,-20.097112,-43.487902,Minas Gerais,iNaturalist research-grade observations,filipeprates,5
+2716224182,"Synallaxis albescens Temminck, 1823",Furnariidae,Passeriformes,2016-10-15,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,7
+4810941891,"Chaetura meridionalis Hellmayr, 1907",Apodidae,Apodiformes,2023-11-03,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,6
+5329354708,"Sporophila nigricollis (Vieillot, 1823)",Thraupidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.098928,-43.49928,Minas Gerais,,obsr3066956,9
+5346541228,"Coryphospingus pileatus (Wied-Neuwied, 1821)",Thraupidae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,3
+2801899862,"Daptrius Vieillot, 1816",Falconidae,Falconiformes,2016-10-16,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,10
+5397665568,"Geothlypis velata (Vieillot, 1809)",Parulidae,Passeriformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,1
+5583380038,"Myiozetetes similis (Spix, 1825)",Tyrannidae,Passeriformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,4
+5354560939,"Crypturellus obsoletus (Temminck, 1815)",Tinamidae,Tinamiformes,2024-01-27,HUMAN_OBSERVATION,-20.15265,-43.520786,Minas Gerais,,obsr753626,5
+5164044310,"Cissopis leverianus (J.F.Gmelin, 1788)",Thraupidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,4
+3745699364,"Zonotrichia capensis (P.L.S.Müller, 1776)",Passerellidae,Passeriformes,1976-09-22,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Luiz Otávio Marcondes Machado,1
+4634902643,"Leptotila verreauxi Bonaparte, 1855",Columbidae,Columbiformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,3
+5164096351,"Amazilia versicolor (Vieillot, 1818)",Trochilidae,Apodiformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,8
+5547215125,"Piranga flava (Vieillot, 1822)",Cardinalidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.643545,-43.52514,Minas Gerais,,obsr1359206,4
+2727048718,"Sporophila caerulescens (Vieillot, 1823)",Thraupidae,Passeriformes,2016-10-14,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,9
+5694722817,"Leptotila verreauxi Bonaparte, 1855",Columbidae,Columbiformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,9
+2186850905,"Myiothlypis flaveola S.F.Baird, 1865",Parulidae,Passeriformes,2016-10-15,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,4
+5070117882,"Pyriglena leucoptera (Vieillot, 1818)",Thamnophilidae,Passeriformes,2025-02-14T15:31,HUMAN_OBSERVATION,-20.100337,-43.485638,Minas Gerais,iNaturalist research-grade observations,filipeprates,4
+2715232764,"Piranga flava (Vieillot, 1822)",Cardinalidae,Passeriformes,2016-10-15,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,2
+5164144402,"Elaenia sordida J.T.Zimmer, 1941",Tyrannidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,8
+5164104344,"Myiothlypis leucoblephara (Vieillot, 1817)",Parulidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,2
+5355094550,"Colonia colonus (Vieillot, 1818)",Tyrannidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097754,-43.48859,Minas Gerais,,obsr1426674,9
+3745700122,"Cypsnagra hirundinacea (R.Lesson, 1831)",Thraupidae,Passeriformes,1974-02-08,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,3
+5164023478,"Crypturellus obsoletus (Temminck, 1815)",Tinamidae,Tinamiformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,9
+5070091391,"Daptrius Vieillot, 1816",Falconidae,Falconiformes,2025-02-15T08:00,HUMAN_OBSERVATION,-20.09906,-43.49931,Minas Gerais,iNaturalist research-grade observations,filipeprates,5
+5164064319,"Cranioleuca pallida (Wied-Neuwied, 1831)",Furnariidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,9
+2799168919,"Pionus maximiliani (Kuhl, 1820)",Psittacidae,Psittaciformes,2016-10-16,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,1
+3233622336,"Sicalis flaveola (Linnaeus, 1766)",Thraupidae,Passeriformes,2020-02-22,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1127182,10
+4837081596,"Brotogeris chiriri (Vieillot, 1818)",Psittacidae,Psittaciformes,2023-11-05,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,7
+5840487554,"Lepidocolaptes squamatus (Lichtenstein, 1822)",Furnariidae,Passeriformes,2025-08-30T13:13,HUMAN_OBSERVATION,-20.101688,-43.492851,Minas Gerais,iNaturalist research-grade observations,Gabriel CAUCANAS,1
+5346843474,"Columbina squammata (R.Lesson, 1831)",Columbidae,Columbiformes,2024-02-04,HUMAN_OBSERVATION,-19.643545,-43.52514,Minas Gerais,,obsr1359206,1
+5346390122,"Tyrannus savana Vieillot, 1808",Tyrannidae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.339453,-46.83927,Minas Gerais,,obsr2661064,1
+4729583791,"Icterus pyrrhopterus (Vieillot, 1819)",Icteridae,Passeriformes,2023-11-03,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,5
+5331011797,"Zonotrichia capensis (P.L.S.Müller, 1776)",Passerellidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097754,-43.48859,Minas Gerais,,obsr3066956,2
+5361074525,"Xenops rutilans Temminck, 1821",Furnariidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097414,-43.485508,Minas Gerais,,obsr553166,2
+2723155544,"Eupsittula aurea (J.F.Gmelin, 1788)",Psittacidae,Psittaciformes,2016-10-15,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,3
+4630918344,"Molothrus bonariensis (Gmelin, 1789)",Icteridae,Passeriformes,2023-11-03,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,1
+5164099417,"Myiothlypis flaveola S.F.Baird, 1865",Parulidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,4
+2789198704,"Thraupis sayaca (Linnaeus, 1766)",Thraupidae,Passeriformes,2016-10-16,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,8
+3745700127,"Myiophobus fasciatus flammiceps (Temminck, 1822)",Tyrannidae,Passeriformes,1973-09-05,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,6
+5588882629,"Myiothlypis flaveola S.F.Baird, 1865",Parulidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.643545,-43.52514,Minas Gerais,,obsr1359206,3
+5163998394,"Ardea alba Linnaeus, 1758",Ardeidae,Pelecaniformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,6
+5301890022,"Augastes scutatus (Temminck, 1824)",Trochilidae,Apodiformes,2024-01-29,HUMAN_OBSERVATION,-20.098928,-43.49928,Minas Gerais,,obsr3066956,6
+4631231363,"Crotophaga ani Linnaeus, 1758",Cuculidae,Cuculiformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,7
+3745700171,"Elaenia obscura sordida Zimmer, 1941",Tyrannidae,Passeriformes,1973-07-20,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Antônio Corrêa Filho,3
+5640631132,"Gnorimopsar chopi (Vieillot, 1819)",Icteridae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,6
+5362043018,"Sittasomus griseicapillus (Vieillot, 1818)",Furnariidae,Passeriformes,2024-01-05,HUMAN_OBSERVATION,-20.1026,-43.494,Minas Gerais,,obsr398519,10
+5164132415,"Colonia colonus (Vieillot, 1818)",Tyrannidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,2
+5549684421,"Contopus cinereus (Spix, 1825)",Tyrannidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.635796,-43.524536,Minas Gerais,,obsr1359206,10
+5164031365,"Tachyphonus coronatus (Vieillot, 1822)",Thraupidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,1
+5339906159,"Sicalis flaveola (Linnaeus, 1766)",Thraupidae,Passeriformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,3
+5322499799,"Thraupis ornata (Sparrman, 1789)",Thraupidae,Passeriformes,2024-01-06,HUMAN_OBSERVATION,-20.097754,-43.48859,Minas Gerais,,obsr1883460,4
+5559132079,"Chrysomus ruficapillus (Vieillot, 1819)",Icteridae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr2661064,5
+5164039321,"Saltator similis d'Orbigny & Lafresnaye, 1837",Thraupidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,9
+5070110986,"Hylophilus amaurocephalus (Nordmann, 1835)",Vireonidae,Passeriformes,2025-02-14T17:11,HUMAN_OBSERVATION,-20.101632,-43.484632,Minas Gerais,iNaturalist research-grade observations,filipeprates,2
+5630423887,"Troglodytes musculus J.F.Naumann, 1823",Troglodytidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,4
+5608745582,"Clibanornis rectirostris (M.Wied-Neuwied, 1831)",Furnariidae,Passeriformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,8
+5164032441,"Cathartes aura (Linnaeus, 1758)",Cathartidae,Accipitriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,6
+4660157856,"Aratinga auricapillus (Kuhl, 1820)",Psittacidae,Psittaciformes,2023-08-23,HUMAN_OBSERVATION,-14.96894,-44.047916,Minas Gerais,,obsr1089201,3
+5386895768,"Zonotrichia capensis (P.L.S.Müller, 1776)",Passerellidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.643545,-43.52514,Minas Gerais,,obsr1359206,4
+5312096993,"Sicalis flaveola (Linnaeus, 1766)",Thraupidae,Passeriformes,2024-01-07,HUMAN_OBSERVATION,-20.100239,-43.48618,Minas Gerais,,obsr1883460,1
+5363296945,"Thraupis sayaca (Linnaeus, 1766)",Thraupidae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,8
+3745700107,"Furnarius rufus (Gmelin, 1788)",Furnariidae,Passeriformes,1974-02-08,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,4
+2217159389,"Columba livia J.F.Gmelin, 1789",Columbidae,Columbiformes,2011-10-04,HUMAN_OBSERVATION,-19.514063,-43.748962,Minas Gerais,,obsr486435,7
+5554764925,"Myiozetetes similis (Spix, 1825)",Tyrannidae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,2
+5366318105,"Herpsilochmus atricapillus Pelzeln, 1868",Thamnophilidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.098928,-43.49928,Minas Gerais,,obsr306297,7
+1269823286,"Eupetomena macroura (J.F.Gmelin, 1788)",Trochilidae,Apodiformes,,PRESERVED_SPECIMEN,-19.5,-43.75,Mg,Coleção de Aves do Museu Nacional (MN),Observador Simulado,3
+3745700228,"Veniliornis mixtus (Boddaert, 1783)",Picidae,Piciformes,1974-09-04,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,4
+5164093383,"Fluvicola nengeta (Linnaeus, 1766)",Tyrannidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,3
+3745700564,"Thalurania furcata (J.F.Gmelin, 1788)",Trochilidae,Apodiformes,1974-04-07,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,3
+5357111079,"Cranioleuca pallida (Wied-Neuwied, 1831)",Furnariidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097754,-43.48859,Minas Gerais,,obsr553166,3
+3745700155,"Embernagra longicauda Strickland, 1844",Thraupidae,Passeriformes,1973-12-17,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,9
+5070084509,"Knipolegus nigerrimus (Vieillot, 1818)",Tyrannidae,Passeriformes,2025-02-15T17:58,HUMAN_OBSERVATION,-20.097114,-43.489374,Minas Gerais,iNaturalist research-grade observations,filipeprates,1
+5390215531,"Stilpnia cayana (Linnaeus, 1766)",Thraupidae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,10
+5571304319,"Phaethornis pretrei (R.Lesson & Delattre, 1839)",Trochilidae,Apodiformes,2024-02-14,HUMAN_OBSERVATION,-20.342585,-46.859455,Minas Gerais,,obsr4596723,1
+3294004349,"Passer domesticus (Linnaeus, 1758)",Passeridae,Passeriformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1211577,5
+5164015370,"Chiroxiphia caudata (Shaw, 1793)",Pipridae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,2
+5164028409,"Coereba flaveola (Linnaeus, 1758)",Thraupidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,5
+3745700552,"Embernagra longicauda Strickland, 1844",Thraupidae,Passeriformes,1979-01-13,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Jacques Marie Edme Vielliard,9
+2709336549,"Elaenia cristata Pelzeln, 1868",Tyrannidae,Passeriformes,2016-10-14,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,1
+5070065528,"Chlorostilbon lucidus (Shaw, 1812)",Trochilidae,Apodiformes,2025-02-15T09:29,HUMAN_OBSERVATION,-20.098598,-43.488871,Minas Gerais,iNaturalist research-grade observations,filipeprates,4
+3745700174,"Myiophobus fasciatus flammiceps (Temminck, 1822)",Tyrannidae,Passeriformes,1973-07-22,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Antônio Corrêa Filho,7
+2716972848,"Caracara plancus (J.F.Miller, 1777)",Falconidae,Falconiformes,2016-10-14,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,8
+5070081588,"Daptrius Vieillot, 1816",Falconidae,Falconiformes,2025-02-15T10:05,HUMAN_OBSERVATION,-20.096893,-43.488132,Minas Gerais,iNaturalist research-grade observations,filipeprates,7
+4702225872,"Gnorimopsar chopi (Vieillot, 1819)",Icteridae,Passeriformes,2023-08-23,HUMAN_OBSERVATION,-14.96894,-44.047916,Minas Gerais,,obsr1089201,3
+4648616747,"Phacellodomus rufifrons (Wied-Neuwied, 1821)",Furnariidae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,7
+5164001324,"Schiffornis virescens (Lafresnaye, 1838)",Cotingidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,2
+3214469481,"Zenaida auriculata (Des Murs, 1847)",Columbidae,Columbiformes,2020-12-20,HUMAN_OBSERVATION,-20.315615,-46.833275,Minas Gerais,,obsr1115302,6
+5467450046,"Psittacara leucophthalmus (Müller & Pls, 1776)",Psittacidae,Psittaciformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,1
+5649991627,"Myiarchus ferox (Gmelin, 1789)",Tyrannidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,5
+3203688706,"Geositta poeciloptera (Wied-Neuwied, 1830)",Furnariidae,Passeriformes,2020-07-31,HUMAN_OBSERVATION,-20.132963,-46.985428,Minas Gerais,,obsr280745,7
+5678130806,"Sporophila caerulescens (Vieillot, 1823)",Thraupidae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr2661064,6
+4664694311,"Zonotrichia capensis (P.L.S.Müller, 1776)",Passerellidae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,4
+5543649176,"Mustelirallus albicollis (Vieillot, 1819)",Rallidae,Gruiformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,3
+4816016630,"Colaptes campestris (Vieillot, 1818)",Picidae,Piciformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,1
+3205690661,"Cariama cristata (Linnaeus, 1766)",Cariamidae,Cariamiformes,2020-12-20,HUMAN_OBSERVATION,-20.315615,-46.833275,Minas Gerais,,obsr1115302,5
+4837081613,"Rhopospina caerulescens (Wied-Neuwied, 1830)",Thraupidae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,9
+5357516162,"Sirystes sibilator (Vieillot, 1818)",Tyrannidae,Passeriformes,2024-01-27,HUMAN_OBSERVATION,-20.15265,-43.520786,Minas Gerais,,obsr753626,10
+5553224789,"Tyrannus savana Vieillot, 1808",Tyrannidae,Passeriformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,9
+5140323760,"Penelope obscura Temminck, 1815",Cracidae,Galliformes,2025-03-30T14:46:33,HUMAN_OBSERVATION,-20.098425,-43.487982,Minas Gerais,iNaturalist research-grade observations,Renan Souza,4
+5164084406,"Scytalopus petrophilus B.M.Whitney, Vasconcelos, Silveira & Pacheco, 2010",Rhinocryptidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,7
+5354427960,"Mimus saturninus (Lichtenstein, 1823)",Mimidae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,1
+2797486911,"Picumnus cirratus Temminck, 1825",Picidae,Piciformes,2016-10-14,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,8
+3745700204,"Conopophaga lineata lineata (Wied-Neuwied, 1831)",Conopophagidae,Passeriformes,1973-07-26,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Antônio Corrêa Filho,4
+4820381581,"Thraupis palmarum (Wied-Neuwied, 1821)",Thraupidae,Passeriformes,2023-11-03,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,9
+5652842052,"Tolmomyias sulphurescens (Spix, 1825)",Tyrannidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.643545,-43.52514,Minas Gerais,,obsr1359206,7
+5070092536,"Tangara cyanoventris (Vieillot, 1819)",Thraupidae,Passeriformes,2025-02-15T09:45,HUMAN_OBSERVATION,-20.098306,-43.489084,Minas Gerais,iNaturalist research-grade observations,filipeprates,4
+5498445539,"Ardea alba Linnaeus, 1758",Ardeidae,Pelecaniformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr3387929,2
+5674659376,"Phaethornis pretrei (R.Lesson & Delattre, 1839)",Trochilidae,Apodiformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,8
+5306829588,"Sporophila nigricollis (Vieillot, 1823)",Thraupidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.098928,-43.49928,Minas Gerais,,obsr553166,1
+5430102590,"Pitangus sulphuratus (Linnaeus, 1766)",Tyrannidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,8
+5164118433,"Hemitriccus nidipendulus (Wied-Neuwied, 1831)",Tyrannidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,5
+5164086359,"Patagioenas picazuro (Temminck, 1813)",Columbidae,Columbiformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,2
+5654835618,"Volatinia jacarina (Linnaeus, 1766)",Thraupidae,Passeriformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,3
+5318677779,"Myiothlypis leucophrys (Pelzeln, 1868)",Parulidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097414,-43.485508,Minas Gerais,,obsr553166,3
+5063314950,"Caracara plancus (J.F.Miller, 1777)",Falconidae,Falconiformes,2025-01-13T11:08,HUMAN_OBSERVATION,-20.096662,-43.493308,Minas Gerais,iNaturalist research-grade observations,Diego Rolim,1
+3745700090,"Tyrannus melancholicus Vieillot, 1819",Tyrannidae,Passeriformes,1974-02-07,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,8
+5637337322,"Eupetomena cirrochloris (Vieillot, 1818)",Trochilidae,Apodiformes,2024-02-04,HUMAN_OBSERVATION,-19.643545,-43.52514,Minas Gerais,,obsr1359206,9
+5840028860,"Molothrus oryzivorus (Gmelin, 1788)",Icteridae,Passeriformes,2025-09-30T17:08,HUMAN_OBSERVATION,-19.522096,-43.745428,Minas Gerais,iNaturalist research-grade observations,Davidson Moreira,4
+5070000962,"Penelope obscura Temminck, 1815",Cracidae,Galliformes,2025-02-14T18:02,HUMAN_OBSERVATION,-20.097809,-43.489196,Minas Gerais,iNaturalist research-grade observations,filipeprates,1
+5608228148,"Tyrannus melancholicus Vieillot, 1819",Tyrannidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,10
+5452828510,"Myiarchus ferox (Gmelin, 1789)",Tyrannidae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,10
+5403832448,"Crotophaga ani Linnaeus, 1758",Cuculidae,Cuculiformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,7
+5672915378,"Nannopterum brasilianum (J.F.Gmelin, 1789)",Phalacrocoracidae,Suliformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr2661064,6
+5164034397,"Pygochelidon cyanoleuca (Vieillot, 1817)",Hirundinidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,1
+5303578024,"Herpsilochmus atricapillus Pelzeln, 1868",Thamnophilidae,Passeriformes,2024-01-27,HUMAN_OBSERVATION,-20.15265,-43.520786,Minas Gerais,,obsr753626,4
+4744547355,"Penelope obscura Temminck, 1815",Cracidae,Galliformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,2
+5164056380,"Phyllomyias fasciatus (Thunberg, 1822)",Tyrannidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,2
+5618010576,"Saltator similis d'Orbigny & Lafresnaye, 1837",Thraupidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.643545,-43.52514,Minas Gerais,,obsr1359206,6
+5547178872,"Icterus jamacaii (Gmelin, 1788)",Icteridae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,7
+3745700125,"Pseudoleistes guirahuro (Vieillot, 1819)",Icteridae,Passeriformes,1973-09-05,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,7
+5164015346,"Chlorophonia cyanea (Thunberg, 1822)",Fringillidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,1
+5164066402,"Colaptes campestris (Vieillot, 1818)",Picidae,Piciformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,7
+5164083395,"Aramides saracura (Spix, 1825)",Rallidae,Gruiformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,3
+5163994454,"Knipolegus nigerrimus (Vieillot, 1818)",Tyrannidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,5
+5602634907,"Mimus saturninus (Lichtenstein, 1823)",Mimidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,4
+5431674742,"Coryphospingus cucullatus (P.L.S.Müller, 1776)",Thraupidae,Passeriformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,4
+5070100604,"Dacnis cayana (Linnaeus, 1766)",Thraupidae,Passeriformes,2025-02-15T09:45,HUMAN_OBSERVATION,-20.098185,-43.489191,Minas Gerais,iNaturalist research-grade observations,filipeprates,6
+5828017460,"Ramphastos toco P.L.S.Müller, 1776",Ramphastidae,Piciformes,2019-09-25T10:13,HUMAN_OBSERVATION,-19.518965,-43.747259,Minas Gerais,iNaturalist research-grade observations,Túlio Torres,2
+2773570825,"Turdus leucomelas Vieillot, 1818",Turdidae,Passeriformes,2016-10-16,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,4
+5387293544,"Phacellodomus rufifrons (Wied-Neuwied, 1821)",Furnariidae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,10
+5164048447,"Tersina viridis (Illiger, 1811)",Thraupidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,8
+5532080683,"Rupornis magnirostris (Gmelin, 1788)",Accipitridae,Accipitriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,5
+2194451069,"Basileuterus culicivorus (Deppe, 1830)",Parulidae,Passeriformes,2016-10-16,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,8
+5513609098,"Aratinga auricapillus (Kuhl, 1820)",Psittacidae,Psittaciformes,2024-02-14,HUMAN_OBSERVATION,-20.342585,-46.859455,Minas Gerais,,obsr4596723,4
+5368901060,"Stelgidopteryx ruficollis (Vieillot, 1817)",Hirundinidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,3
+5421934277,"Crotophaga ani Linnaeus, 1758",Cuculidae,Cuculiformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,5
+3219802256,"Patagioenas picazuro (Temminck, 1813)",Columbidae,Columbiformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1127182,7
+5164019388,"Rupornis magnirostris (Gmelin, 1788)",Accipitridae,Accipitriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,2
+5390183220,"Todirostrum poliocephalum (Wied-Neuwied, 1831)",Tyrannidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.643545,-43.52514,Minas Gerais,,obsr1359206,10
+2800389090,"Chlorostilbon lucidus (Shaw, 1812)",Trochilidae,Apodiformes,2016-10-16,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,8
+3226653400,"Turdus leucomelas Vieillot, 1818",Turdidae,Passeriformes,2020-02-22,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1127182,9
+3745700212,"Hirundinea ferruginea (Gmelin, 1788)",Tyrannidae,Passeriformes,1973-09-07,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,2
+2796271955,"Empidonomus varius (Vieillot, 1818)",Tyrannidae,Passeriformes,2016-10-14,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,3
+5282481732,"Psittacara leucophthalmus (Müller & Pls, 1776)",Psittacidae,Psittaciformes,2025-07-20T16:46:14,HUMAN_OBSERVATION,-20.344776,-46.855553,Minas Gerais,iNaturalist research-grade observations,Bhianca,4
+5164046423,"Tolmomyias sulphurescens (Spix, 1825)",Tyrannidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,8
+5649716322,"Streptoprocne zonaris (Shaw, 1796)",Apodidae,Apodiformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,6
+3745700129,"Cissopis leverianus (J.F.Gmelin, 1788)",Thraupidae,Passeriformes,1973-10-28,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,1
+5526659441,"Nycticorax nycticorax (Linnaeus, 1758)",Ardeidae,Pelecaniformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr3387929,6
+3218373171,"Thraupis palmarum (Wied-Neuwied, 1821)",Thraupidae,Passeriformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1127182,1
+3219995878,"Aratinga auricapillus (Kuhl, 1820)",Psittacidae,Psittaciformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1211577,10
+5322946350,"Hirundinea ferruginea (Gmelin, 1788)",Tyrannidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.098928,-43.49928,Minas Gerais,,obsr1426674,7
+5164119485,"Tangara desmaresti (Vieillot, 1819)",Thraupidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,9
+1269823274,"Eupetomena macroura (J.F.Gmelin, 1788)",Trochilidae,Apodiformes,,PRESERVED_SPECIMEN,-19.5,-43.75,Mg,Coleção de Aves do Museu Nacional (MN),Observador Simulado,8
+5380674726,"Rupornis magnirostris (Gmelin, 1788)",Accipitridae,Accipitriformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,1
+4738580178,"Cariama cristata (Linnaeus, 1766)",Cariamidae,Cariamiformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,10
+3745699577,"Saltatricula atricollis (Vieillot, 1817)",Thraupidae,Passeriformes,1973-07-23,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Antônio Corrêa Filho,6
+5652688038,"Columbina squammata (R.Lesson, 1831)",Columbidae,Columbiformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,6
+5532784817,"Butorides striata (Linnaeus, 1758)",Ardeidae,Pelecaniformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr3387929,6
+3222830387,"Coereba flaveola (Linnaeus, 1758)",Thraupidae,Passeriformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1127182,9
+5618448482,"Dendrocygna viduata (Linnaeus, 1766)",Anatidae,Anseriformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr3387929,6
+3220183514,"Brotogeris chiriri (Vieillot, 1818)",Psittacidae,Psittaciformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1127182,8
+5417339190,"Forpus xanthopterygius (Spix, 1824)",Psittacidae,Psittaciformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,5
+5164111410,"Sicalis flaveola (Linnaeus, 1766)",Thraupidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,6
+5369309851,"Crotophaga ani Linnaeus, 1758",Cuculidae,Cuculiformes,2024-02-14,HUMAN_OBSERVATION,-20.342585,-46.859455,Minas Gerais,,obsr4596723,4
+2719481998,"Furnarius rufus (Gmelin, 1788)",Furnariidae,Passeriformes,2016-10-15,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,4
+5558363535,"Theristicus caudatus (Boddaert, 1783)",Threskiornithidae,Pelecaniformes,2024-12-08,HUMAN_OBSERVATION,-20.343323,-46.847748,Minas Gerais,,obsr3387929,1
+5164073458,"Troglodytes aedon musculus J.F.Naumann, 1823",Troglodytidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,1
+5459813795,"Galbula ruficauda Cuvier, 1816",Galbulidae,Piciformes,2022-10-12,HUMAN_OBSERVATION,-20.317621,-46.837254,Minas Gerais,,obsr3010636,8
+5565909295,"Gallinula galeata (Lichtenstein & Mhc, 1818)",Rallidae,Gruiformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr2661064,8
+5298393476,"Tachyphonus coronatus (Vieillot, 1822)",Thraupidae,Passeriformes,2024-01-27,HUMAN_OBSERVATION,-20.15265,-43.520786,Minas Gerais,,obsr753626,9
+5643856942,"Eupsittula aurea (J.F.Gmelin, 1788)",Psittacidae,Psittaciformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,1
+5607470435,"Rupornis magnirostris (Gmelin, 1788)",Accipitridae,Accipitriformes,2024-12-07,HUMAN_OBSERVATION,-20.339453,-46.83927,Minas Gerais,,obsr3387929,1
+5354856293,"Thraupis ornata (Sparrman, 1789)",Thraupidae,Passeriformes,2024-01-05,HUMAN_OBSERVATION,-20.1026,-43.494,Minas Gerais,,obsr398519,5
+5070080584,"Penelope obscura Temminck, 1815",Cracidae,Galliformes,2025-02-15T10:06,HUMAN_OBSERVATION,-20.09718,-43.487957,Minas Gerais,iNaturalist research-grade observations,filipeprates,6
+5164032341,"Sirystes sibilator (Vieillot, 1818)",Tyrannidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,7
+5164063453,"Clytolaema rubricauda (Boddaert, 1783)",Trochilidae,Apodiformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,4
+5166914031,"Cariama cristata (Linnaeus, 1766)",Cariamidae,Cariamiformes,2025-05-12T07:43,HUMAN_OBSERVATION,-19.529784,-43.725012,Minas Gerais,iNaturalist research-grade observations,Túlio Torres,2
+5164086433,"Hirundinea ferruginea (Gmelin, 1788)",Tyrannidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,1
+5297951690,"Cyclarhis gujanensis (Gmelin, 1789)",Vireonidae,Passeriformes,2024-01-07,HUMAN_OBSERVATION,-20.100239,-43.48618,Minas Gerais,,obsr1883460,10
+5164085368,"Zonotrichia capensis (P.L.S.Müller, 1776)",Passerellidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,9
+5070132564,"Psittacara leucophthalmus (Müller & Pls, 1776)",Psittacidae,Psittaciformes,2025-02-15T17:23,HUMAN_OBSERVATION,-20.096978,-43.488581,Minas Gerais,iNaturalist research-grade observations,filipeprates,8
+5454333223,"Cathartes aura (Linnaeus, 1758)",Cathartidae,Accipitriformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,3
+5639711586,"Tyrannus albogularis Burmeister, 1856",Tyrannidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,6
+3225983962,"Pitangus sulphuratus (Linnaeus, 1766)",Tyrannidae,Passeriformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1211577,1
+4741425683,"Anumbius annumbi (Vieillot, 1817)",Furnariidae,Passeriformes,2023-11-03,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,9
+2248725713,"Lepidocolaptes Reichenbach, 1853",Furnariidae,Passeriformes,2001-12-28,MATERIAL_SAMPLE,-19.5,-43.73333,Minas Gerais,,Beatriz Aquino Ribeiro,7
+5446752801,"Ramphastos toco P.L.S.Müller, 1776",Ramphastidae,Piciformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr3387929,4
+3745700103,"Nystalus chacuru (Vieillot, 1816)",Bucconidae,Piciformes,1973-12-18,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Froehlich,5
+5398624956,"Coryphospingus cucullatus (P.L.S.Müller, 1776)",Thraupidae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,9
+5503368976,"Myiophobus fasciatus (Statius Muller, 1776)",Tyrannidae,Passeriformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,2
+5164130317,"Schistochlamys ruficapillus (Vieillot, 1817)",Thraupidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,2
+5827433658,"Piaya cayana (Linnaeus, 1766)",Cuculidae,Cuculiformes,2025-09-13T14:38,HUMAN_OBSERVATION,-19.522667,-43.738311,Minas Gerais,iNaturalist research-grade observations,Túlio Torres,8
+5164093418,"Patagioenas cayennensis (Bonnaterre, 1792)",Columbidae,Columbiformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,10
+5301202930,"Sicalis flaveola (Linnaeus, 1766)",Thraupidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097754,-43.48859,Minas Gerais,,obsr3066956,6
+5568625716,"Chrysomus ruficapillus (Vieillot, 1819)",Icteridae,Passeriformes,2024-02-14,HUMAN_OBSERVATION,-20.342585,-46.859455,Minas Gerais,,obsr4596723,3
+5526611614,"Brotogeris chiriri (Vieillot, 1818)",Psittacidae,Psittaciformes,2024-12-08,HUMAN_OBSERVATION,-20.343323,-46.847748,Minas Gerais,,obsr3387929,1
+5598996211,"Leptotila verreauxi Bonaparte, 1855",Columbidae,Columbiformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,7
+5282520745,"Culicivora caudacuta (Vieillot, 1818)",Tyrannidae,Passeriformes,2023-06-08T11:29,HUMAN_OBSERVATION,-20.396755,-46.787936,Minas Gerais,iNaturalist research-grade observations,Paulo Mascaretti,10
+5506195205,"Cariama cristata (Linnaeus, 1766)",Cariamidae,Cariamiformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,7
+5164091334,"Sicalis flaveola (Linnaeus, 1766)",Thraupidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,1
+5164058323,"Amazilia versicolor (Vieillot, 1818)",Trochilidae,Apodiformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,8
+3745699582,"Schistochlamys ruficapillus (Vieillot, 1817)",Thraupidae,Passeriformes,1973-07-20,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,5
+5437952594,"Nannopterum brasilianum (J.F.Gmelin, 1789)",Phalacrocoracidae,Suliformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr3387929,10
+3745700182,"Myiarchus ferox (Gmelin, 1789)",Tyrannidae,Passeriformes,1973-07-24,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Antônio Corrêa Filho,9
+2171280901,"Eupetomena macroura (J.F.Gmelin, 1788)",Trochilidae,Apodiformes,2016-10-15,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,5
+3294837417,"Rhopospina caerulescens (Wied-Neuwied, 1830)",Thraupidae,Passeriformes,2020-12-20,HUMAN_OBSERVATION,-20.315615,-46.833275,Minas Gerais,,obsr1115302,10
+5840151308,"Stelgidopteryx ruficollis (Vieillot, 1817)",Hirundinidae,Passeriformes,2025-09-30T17:04,HUMAN_OBSERVATION,-19.522096,-43.745428,Minas Gerais,iNaturalist research-grade observations,Davidson Moreira,2
+5070051476,"Chlorophonia cyanocephala (Vieillot, 1819)",Fringillidae,Passeriformes,2025-02-15T09:41,HUMAN_OBSERVATION,-20.098412,-43.489117,Minas Gerais,iNaturalist research-grade observations,filipeprates,7
+3220919947,"Furnarius rufus (Gmelin, 1788)",Furnariidae,Passeriformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1211577,4
+2723601585,"Polystictus superciliaris (Wied-Neuwied, 1831)",Tyrannidae,Passeriformes,2016-10-14,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,8
+5318036523,"Chrysuronia versicolor (Vieillot, 1818)",Trochilidae,Apodiformes,2024-01-29,HUMAN_OBSERVATION,-20.097754,-43.48859,Minas Gerais,,obsr553166,2
+5164007304,"Philydor rufum (Vieillot, 1818)",Furnariidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,1
+4664694360,"Ardea ibis Linnaeus, 1758",Ardeidae,Pelecaniformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,2
+5070025169,"Augastes scutatus (Temminck, 1824)",Trochilidae,Apodiformes,2025-02-15T06:43,HUMAN_OBSERVATION,-20.101558,-43.500998,Minas Gerais,iNaturalist research-grade observations,filipeprates,6
+3745701128,"Aratinga aurea (Gmelin, 1788)",Psittacidae,Psittaciformes,1973-12-18,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,5
+5459973321,"Psittacara leucophthalmus (Müller & Pls, 1776)",Psittacidae,Psittaciformes,2024-12-08,HUMAN_OBSERVATION,-20.343323,-46.847748,Minas Gerais,,obsr3387929,2
+3209527591,"Sporophila caerulescens (Vieillot, 1823)",Thraupidae,Passeriformes,2020-12-20,HUMAN_OBSERVATION,-20.315615,-46.833275,Minas Gerais,,obsr1115302,5
+5455187262,"Rupornis magnirostris (Gmelin, 1788)",Accipitridae,Accipitriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,6
+5164033355,"Drymophila malura (Temminck, 1825)",Thamnophilidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,5
+3208669075,"Colaptes melanochloros (J.F.Gmelin, 1788)",Picidae,Piciformes,2020-12-21,HUMAN_OBSERVATION,-20.315615,-46.833275,Minas Gerais,,obsr1115302,4
+5828202442,"Passer domesticus (Linnaeus, 1758)",Passeridae,Passeriformes,2025-09-10T09:17,HUMAN_OBSERVATION,-19.521536,-43.739983,Minas Gerais,iNaturalist research-grade observations,Túlio Torres,7
+5542504388,"Chrysomus ruficapillus (Vieillot, 1819)",Icteridae,Passeriformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,1
+5447892892,"Gubernetes yetapa (Vieillot, 1818)",Tyrannidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,4
+5319728174,"Coragyps atratus (Bechstein, 1793)",Cathartidae,Accipitriformes,2024-12-07,HUMAN_OBSERVATION,-20.339453,-46.83927,Minas Gerais,,obsr2661064,8
+4730351196,"Nystalus chacuru (Vieillot, 1816)",Bucconidae,Piciformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,1
+4833896274,"Passer domesticus (Linnaeus, 1758)",Passeridae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,7
+4804539201,"Picumnus cirratus Temminck, 1825",Picidae,Piciformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,6
+2186893046,"Eucometis penicillata (Spix, 1825)",Thraupidae,Passeriformes,2016-10-14,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,9
+5164037317,"Coereba flaveola (Linnaeus, 1758)",Thraupidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,9
+5164052409,"Patagioenas picazuro (Temminck, 1813)",Columbidae,Columbiformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,5
+3745700208,"Elaenia flavogaster (Thunberg, 1822)",Tyrannidae,Passeriformes,1973-09-05,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,2
+3745700106,"Turdus rufiventris Vieillot, 1818",Turdidae,Passeriformes,1974-02-09,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Antônio Corrêa Filho,5
+5070123261,"Poecilotriccus plumbeiceps (Lafresnaye, 1846)",Tyrannidae,Passeriformes,2025-02-14T15:39,HUMAN_OBSERVATION,-20.102102,-43.484036,Minas Gerais,iNaturalist research-grade observations,filipeprates,6
+5686775554,"Eupetomena macroura (J.F.Gmelin, 1788)",Trochilidae,Apodiformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,3
+5394782679,"Fluvicola nengeta (Linnaeus, 1766)",Tyrannidae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr2661064,4
+5329642561,"Ramphastos toco P.L.S.Müller, 1776",Ramphastidae,Piciformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,10
+5353699475,"Stelgidopteryx ruficollis (Vieillot, 1817)",Hirundinidae,Passeriformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,7
+3347506572,"Phacellodomus rufifrons (Wied-Neuwied, 1821)",Furnariidae,Passeriformes,2003-05-14,PRESERVED_SPECIMEN,-19.5,-43.73,,,Beatriz Aquino Ribeiro,7
+5314692461,"Chrysuronia versicolor (Vieillot, 1818)",Trochilidae,Apodiformes,2024-01-29,HUMAN_OBSERVATION,-20.097754,-43.48859,Minas Gerais,,obsr3066956,4
+5513696589,"Serpophaga subcristata (Vieillot, 1817)",Tyrannidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,8
+5069999730,"Cranioleuca pallida (Wied-Neuwied, 1831)",Furnariidae,Passeriformes,2025-02-14T17:38,HUMAN_OBSERVATION,-20.100847,-43.486161,Minas Gerais,iNaturalist research-grade observations,filipeprates,10
+5605014729,"Gallinula galeata (Lichtenstein & Mhc, 1818)",Rallidae,Gruiformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr3387929,4
+5326374136,"Thamnophilus doliatus (Linnaeus, 1764)",Thamnophilidae,Passeriformes,2024-02-14,HUMAN_OBSERVATION,-20.342585,-46.859455,Minas Gerais,,obsr4596723,8
+5311737952,"Lepidocolaptes angustirostris (Vieillot, 1818)",Furnariidae,Passeriformes,2024-12-08,HUMAN_OBSERVATION,-20.343323,-46.847748,Minas Gerais,,obsr3387929,4
+3221656395,"Aratinga auricapillus (Kuhl, 1820)",Psittacidae,Psittaciformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1127182,7
+5310993631,"Phacellodomus rufifrons (Wied-Neuwied, 1821)",Furnariidae,Passeriformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,10
+5164060384,"Leptodon cayanensis (Latham, 1790)",Accipitridae,Accipitriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,10
+5553373194,"Cyanocorax chrysops (Vieillot, 1818)",Corvidae,Passeriformes,2022-10-12,HUMAN_OBSERVATION,-20.317621,-46.837254,Minas Gerais,,obsr3010636,3
+5187711896,"Sicalis flaveola (Linnaeus, 1766)",Thraupidae,Passeriformes,2025-05-16T08:07,HUMAN_OBSERVATION,-19.522497,-43.729794,Minas Gerais,iNaturalist research-grade observations,Túlio Torres,7
+5534157632,"Campephilus melanoleucos (J.F.Gmelin, 1788)",Picidae,Piciformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,7
+5828680320,"Furnarius rufus (Gmelin, 1788)",Furnariidae,Passeriformes,2022-09-30T08:24,HUMAN_OBSERVATION,-19.522214,-43.738267,Minas Gerais,iNaturalist research-grade observations,Túlio Torres,9
+5622427664,"Columbina squammata (R.Lesson, 1831)",Columbidae,Columbiformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,3
+5415311651,"Volatinia jacarina (Linnaeus, 1766)",Thraupidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,3
+3745700166,"Sicalis citrina citrina Pelzeln, 1870",Thraupidae,Passeriformes,1973-12-11,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,7
+5230106407,"Penelope obscura Temminck, 1815",Cracidae,Galliformes,2025-07-08T06:21,HUMAN_OBSERVATION,-20.096017,-43.488166,Minas Gerais,iNaturalist research-grade observations,bzyborski,7
+2248726308,BOLD:AAI4475,Furnariidae,Passeriformes,2003-05-14,MATERIAL_SAMPLE,-19.5,-43.73333,Minas Gerais,,Beatriz Aquino Ribeiro,5
+4665401724,"Phacellodomus rufifrons (Wied-Neuwied, 1821)",Furnariidae,Passeriformes,2023-11-05,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,6
+5394969918,"Dryobates spilogaster (Wagler, 1827)",Picidae,Piciformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,10
+5164148407,"Mimus saturninus (Lichtenstein, 1823)",Mimidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,2
+5370060216,"Passer domesticus (Linnaeus, 1758)",Passeridae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.339453,-46.83927,Minas Gerais,,obsr2661064,8
+5070140501,"Herpsilochmus atricapillus Pelzeln, 1868",Thamnophilidae,Passeriformes,2025-02-15T10:15,HUMAN_OBSERVATION,-20.096043,-43.487711,Minas Gerais,iNaturalist research-grade observations,filipeprates,9
+5070019822,"Tyrannus melancholicus Vieillot, 1819",Tyrannidae,Passeriformes,2025-02-14T17:35,HUMAN_OBSERVATION,-20.100498,-43.48444,Minas Gerais,iNaturalist research-grade observations,filipeprates,8
+3170952553,"Tachycineta leucorrhoa (Vieillot, 1817)",Hirundinidae,Passeriformes,2020-07-31,HUMAN_OBSERVATION,-20.132963,-46.985428,Minas Gerais,,obsr280745,10
+5593878837,"Zonotrichia capensis (P.L.S.Müller, 1776)",Passerellidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,5
+3745700173,"Pseudoleistes guirahuro (Vieillot, 1819)",Icteridae,Passeriformes,1973-07-23,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,10
+5469141415,"Coragyps atratus (Bechstein, 1793)",Cathartidae,Accipitriformes,2024-12-07,HUMAN_OBSERVATION,-20.339453,-46.83927,Minas Gerais,,obsr3387929,1
+5164078322,"Cyclarhis gujanensis (Gmelin, 1789)",Vireonidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,9
+5601093404,"Coragyps atratus (Bechstein, 1793)",Cathartidae,Accipitriformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,10
+5301979897,"Hemitriccus nidipendulus (Wied-Neuwied, 1831)",Tyrannidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097414,-43.485508,Minas Gerais,,obsr553166,6
+5466408001,"Pseudoleistes guirahuro (Vieillot, 1819)",Icteridae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,2
+3745700556,"Chlorostilbon lucidus (Shaw, 1812)",Trochilidae,Apodiformes,1974-07-04,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,5
+5401571315,"Alipiopsitta xanthops (Spix, 1824)",Psittacidae,Psittaciformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,3
+5336488407,"Pygochelidon cyanoleuca (Vieillot, 1817)",Hirundinidae,Passeriformes,2024-01-06,HUMAN_OBSERVATION,-20.097754,-43.48859,Minas Gerais,,obsr1883460,1
+5070061521,"Sirystes sibilator (Vieillot, 1818)",Tyrannidae,Passeriformes,2025-02-15T09:14,HUMAN_OBSERVATION,-20.096946,-43.48877,Minas Gerais,iNaturalist research-grade observations,filipeprates,2
+3220904868,"Ramphastos toco P.L.S.Müller, 1776",Ramphastidae,Piciformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1211577,2
+5393897833,"Synallaxis frontalis Pelzeln, 1859",Furnariidae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,5
+5641238431,"Antrostomus rufus (Boddaert, 1783)",Caprimulgidae,Caprimulgiformes,2022-09-24,HUMAN_OBSERVATION,-20.326532,-46.838318,Minas Gerais,,obsr3010636,2
+5390183222,"Asemospiza fuliginosa (Wied-Neuwied, 1830)",Thraupidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.635796,-43.524536,Minas Gerais,,obsr1359206,9
+5413315457,"Vanellus chilensis (Molina, 1782)",Charadriidae,Charadriiformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,4
+3218711333,"Pitangus sulphuratus (Linnaeus, 1766)",Tyrannidae,Passeriformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1127182,7
+5327368681,"Myiozetetes cayanensis (Linnaeus, 1766)",Tyrannidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097414,-43.485508,Minas Gerais,,obsr553166,3
+4653308806,"Forpus xanthopterygius (Spix, 1824)",Psittacidae,Psittaciformes,2023-11-05,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,4
+5332798824,"Rostrhamus sociabilis (Vieillot, 1817)",Accipitridae,Accipitriformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr2661064,1
+3176947575,"Alopochelidon fucata (Temminck, 1822)",Hirundinidae,Passeriformes,2020-07-31,HUMAN_OBSERVATION,-20.132963,-46.985428,Minas Gerais,,obsr280745,10
+5602025893,"Machetornis rixosa (Vieillot, 1819)",Tyrannidae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr3387929,9
+3745699347,"Microspingus cinereus (Bonaparte, 1850)",Thraupidae,Passeriformes,1976-09-24,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Luiz Otávio Marcondes Machado,7
+5375148903,"Aratinga auricapillus (Kuhl, 1820)",Psittacidae,Psittaciformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,4
+3745700194,"Turdus leucomelas Vieillot, 1818",Turdidae,Passeriformes,1973-07-25,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Antônio Corrêa Filho,3
+3247456370,"Aratinga auricapillus (Kuhl, 1820)",Psittacidae,Psittaciformes,2020-02-22,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1127182,8
+3228190279,"Brotogeris chiriri (Vieillot, 1818)",Psittacidae,Psittaciformes,2020-02-22,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1127182,1
+4635159051,"Megarynchus pitangua (Linnaeus, 1766)",Tyrannidae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,4
+3745700063,"Basileuterus culicivorus hypoleucus Bonaparte, 1850",Parulidae,Passeriformes,1974-02-10,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Antônio Corrêa Filho,10
+5569700043,"Coragyps atratus (Bechstein, 1793)",Cathartidae,Accipitriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,8
+5618335768,"Thraupis sayaca (Linnaeus, 1766)",Thraupidae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr3387929,3
+2722910746,"Myiarchus ferox (Gmelin, 1789)",Tyrannidae,Passeriformes,2016-10-14,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,10
+5230863633,"Hirundinea ferruginea (Gmelin, 1788)",Tyrannidae,Passeriformes,2025-07-08T16:06,HUMAN_OBSERVATION,-20.097682,-43.488278,Minas Gerais,iNaturalist research-grade observations,bzyborski,8
+5840487559,"Pyriglena leucoptera (Vieillot, 1818)",Thamnophilidae,Passeriformes,2025-08-30,HUMAN_OBSERVATION,-20.102038,-43.493193,Minas Gerais,iNaturalist research-grade observations,Gabriel CAUCANAS,1
+3193719301,"Cariama cristata (Linnaeus, 1766)",Cariamidae,Cariamiformes,2020-07-31,HUMAN_OBSERVATION,-20.132963,-46.985428,Minas Gerais,,obsr280745,9
+3745700065,"Basileuterus culicivorus hypoleucus Bonaparte, 1850",Parulidae,Passeriformes,1974-02-10,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Antônio Corrêa Filho,2
+3745700096,"Synallaxis albescens Temminck, 1823",Furnariidae,Passeriformes,1974-02-07,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,10
+2726629067,"Microspingus cinereus (Bonaparte, 1850)",Thraupidae,Passeriformes,2016-10-15,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,2
+5348891423,"Penelope obscura Temminck, 1815",Cracidae,Galliformes,2024-01-29,HUMAN_OBSERVATION,-20.097754,-43.48859,Minas Gerais,,obsr1426674,9
+5630551060,"Tachycineta albiventer (Boddaert, 1783)",Hirundinidae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr3387929,7
+5329042530,"Gubernetes yetapa (Vieillot, 1818)",Tyrannidae,Passeriformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,7
+4768129366,"Anumbius annumbi (Vieillot, 1817)",Furnariidae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,4
+5347865968,"Brotogeris chiriri (Vieillot, 1818)",Psittacidae,Psittaciformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr2661064,9
+3745699942,"Embernagra longicauda Strickland, 1844",Thraupidae,Passeriformes,1974-04-08,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,2
+3223721039,"Patagioenas picazuro (Temminck, 1813)",Columbidae,Columbiformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1211577,3
+2192448414,"Coragyps atratus (Bechstein, 1793)",Cathartidae,Accipitriformes,2011-10-04,HUMAN_OBSERVATION,-19.514063,-43.748962,Minas Gerais,,obsr486435,10
+5164052515,"Knipolegus nigerrimus (Vieillot, 1818)",Tyrannidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,4
+5329228103,"Icterus jamacaii (Gmelin, 1788)",Icteridae,Passeriformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,9
+5164040374,"Tangara palmarum (Wied-Neuwied, 1821)",Thraupidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,3
+3219041005,"Columbina squammata (R.Lesson, 1831)",Columbidae,Columbiformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1211577,6
+5354144141,"Schiffornis virescens (Lafresnaye, 1838)",Cotingidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097414,-43.485508,Minas Gerais,,obsr1426674,3
+3220878230,"Sicalis flaveola (Linnaeus, 1766)",Thraupidae,Passeriformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1127182,9
+5437968898,"Ardea ibis Linnaeus, 1758",Ardeidae,Pelecaniformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr2661064,10
+5514645221,"Molothrus bonariensis (Gmelin, 1789)",Icteridae,Passeriformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,8
+4823030442,"Chiroxiphia Cabanis, 1847",Pipridae,Passeriformes,2023-11-05,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,2
+5164002324,"Myiarchus ferox (Gmelin, 1789)",Tyrannidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,2
+5163995394,"Furnarius figulus (Lichtenstein, 1823)",Furnariidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,2
+5551073884,"Ramphastos toco P.L.S.Müller, 1776",Ramphastidae,Piciformes,2024-09-18,HUMAN_OBSERVATION,-19.525393,-43.744305,Minas Gerais,,obsr672526,8
+5368943341,"Cariama cristata (Linnaeus, 1766)",Cariamidae,Cariamiformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,7
+4734671920,"Forpus xanthopterygius (Spix, 1824)",Psittacidae,Psittaciformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,3
+5070126537,"Penelope obscura Temminck, 1815",Cracidae,Galliformes,2025-02-15T15:29,HUMAN_OBSERVATION,-20.097759,-43.48904,Minas Gerais,iNaturalist research-grade observations,filipeprates,4
+5070076609,"Trogon surrucura Vieillot, 1817",Trogonidae,Trogoniformes,2025-02-15T09:51,HUMAN_OBSERVATION,-20.098387,-43.489019,Minas Gerais,iNaturalist research-grade observations,filipeprates,1
+3745699580,"Colaptes campestris (Vieillot, 1818)",Picidae,Piciformes,1973-07-21,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,4
+2725065807,"Cyanocorax cristatellus (Temminck, 1823)",Corvidae,Passeriformes,2016-10-15,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,9
+5523600289,"Sicalis luteola (Sparrman, 1789)",Thraupidae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.339453,-46.83927,Minas Gerais,,obsr2661064,4
+5685024028,"Pitangus sulphuratus (Linnaeus, 1766)",Tyrannidae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr3387929,4
+3223604345,"Ramphastos toco P.L.S.Müller, 1776",Ramphastidae,Piciformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1127182,2
+5070026902,"Thraupis palmarum (Wied-Neuwied, 1821)",Thraupidae,Passeriformes,2025-02-14T15:12,HUMAN_OBSERVATION,-20.0979,-43.48914,Minas Gerais,iNaturalist research-grade observations,filipeprates,3
+5164094336,"Drymophila caudata (P.L.Sclater, 1855)",Thamnophilidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,10
+5164093398,"Tolmomyias sulphurescens (Spix, 1825)",Tyrannidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,7
+5442899927,"Sporophila leucoptera (Vieillot, 1817)",Thraupidae,Passeriformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,9
+3745700130,"Cissopis leverianus (J.F.Gmelin, 1788)",Thraupidae,Passeriformes,1973-10-28,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,1
+5500202600,"Pygochelidon cyanoleuca (Vieillot, 1817)",Hirundinidae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,10
+3238154391,"Syrigma sibilatrix (Temminck, 1824)",Ardeidae,Pelecaniformes,2020-02-22,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1127182,9
+5828835926,"Daptrius Vieillot, 1816",Falconidae,Falconiformes,2022-09-15T16:44,HUMAN_OBSERVATION,-19.519362,-43.743161,Minas Gerais,iNaturalist research-grade observations,Túlio Torres,1
+5353014881,"Turdus leucomelas Vieillot, 1818",Turdidae,Passeriformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,2
+5531503604,"Embernagra platensis (J.F.Gmelin, 1789)",Thraupidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,2
+5561631252,"Aratinga auricapillus (Kuhl, 1820)",Psittacidae,Psittaciformes,2024-12-08,HUMAN_OBSERVATION,-20.343323,-46.847748,Minas Gerais,,obsr3387929,1
+5164147380,"Campephilus robustus (M.H.K.Lichtenstein, 1818)",Picidae,Piciformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,6
+5346029558,"Sporophila nigricollis (Vieillot, 1823)",Thraupidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.098928,-43.49928,Minas Gerais,,obsr1426674,9
+5163996389,"Aramides saracura (Spix, 1825)",Rallidae,Gruiformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,10
+3745700157,"Cypsnagra hirundinacea (R.Lesson, 1831)",Thraupidae,Passeriformes,1973-12-14,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,7
+5386895782,"Eupsittula aurea (J.F.Gmelin, 1788)",Psittacidae,Psittaciformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,3
+5436172305,"Chaetura meridionalis Hellmayr, 1907",Apodidae,Apodiformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,6
+5840369504,"Mionectes rufiventris Cabanis, 1846",Tyrannidae,Passeriformes,2025-08-30T13:47,HUMAN_OBSERVATION,-20.104299,-43.493156,Minas Gerais,iNaturalist research-grade observations,Gabriel CAUCANAS,6
+5390183224,"Melanerpes candidus (Otto, 1796)",Picidae,Piciformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,9
+5153575682,"Tersina viridis (Illiger, 1811)",Thraupidae,Passeriformes,2025-02-14T17:16,HUMAN_OBSERVATION,-20.101795,-43.484617,Minas Gerais,iNaturalist research-grade observations,filipeprates,10
+5533478382,"Zonotrichia capensis (P.L.S.Müller, 1776)",Passerellidae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,4
+3745699986,"Mimus saturninus (Lichtenstein, 1823)",Mimidae,Passeriformes,1974-02-08,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,2
+5579296193,"Volatinia jacarina (Linnaeus, 1766)",Thraupidae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,1
+5164027493,"Mackenziaena leachii (Such, 1825)",Thamnophilidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,8
+5472637394,"Ardea alba Linnaeus, 1758",Ardeidae,Pelecaniformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr2661064,2
+5583871446,"Fluvicola nengeta (Linnaeus, 1766)",Tyrannidae,Passeriformes,2024-02-14,HUMAN_OBSERVATION,-20.342585,-46.859455,Minas Gerais,,obsr4596723,1
+5484858993,"Sporophila caerulescens (Vieillot, 1823)",Thraupidae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,3
+5413973094,"Troglodytes musculus J.F.Naumann, 1823",Troglodytidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.643545,-43.52514,Minas Gerais,,obsr1359206,4
+5325113903,"Jacana jacana (Linnaeus, 1766)",Jacanidae,Charadriiformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr2661064,10
+5583843179,"Ardea ibis Linnaeus, 1758",Ardeidae,Pelecaniformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr3387929,6
+5449120471,"Athene cunicularia (Molina, 1782)",Strigidae,Strigiformes,2024-12-07,HUMAN_OBSERVATION,-20.339453,-46.83927,Minas Gerais,,obsr2661064,3
+5407987205,"Megarynchus pitangua (Linnaeus, 1766)",Tyrannidae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,8
+5513041855,"Turdus leucomelas Vieillot, 1818",Turdidae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,10
+5342114630,"Brotogeris chiriri (Vieillot, 1818)",Psittacidae,Psittaciformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr3387929,5
+3220035869,"Thraupis sayaca (Linnaeus, 1766)",Thraupidae,Passeriformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1211577,2
+5164071325,"Formicivora serrana (Hellmayr, 1929)",Thamnophilidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,5
+4835497969,"Ramphastos toco P.L.S.Müller, 1776",Ramphastidae,Piciformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,6
+5164058447,"Columbina squammata (R.Lesson, 1831)",Columbidae,Columbiformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,7
+5376435859,"Automolus leucophthalmus (Wied-Neuwied, 1821)",Furnariidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.643545,-43.52514,Minas Gerais,,obsr1359206,9
+5509808585,"Tachornis squamata (Cassin, 1853)",Apodidae,Apodiformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr3387929,9
+5070033273,"Ramphastos toco P.L.S.Müller, 1776",Ramphastidae,Piciformes,2025-02-15T06:08,HUMAN_OBSERVATION,-20.10183,-43.501137,Minas Gerais,iNaturalist research-grade observations,filipeprates,5
+5164072508,"Machetornis rixosa (Vieillot, 1819)",Tyrannidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,6
+3745699795,"Synallaxis spixi P.L.Sclater, 1856",Furnariidae,Passeriformes,1974-12-10,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,10
+5342703066,"Myiozetetes similis (Spix, 1825)",Tyrannidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,8
+5517679535,"Camptostoma obsoletum (Temminck, 1824)",Tyrannidae,Passeriformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,6
+5593815911,"Colibri serrirostris (Vieillot, 1816)",Trochilidae,Apodiformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,9
+4728239777,"Chiroxiphia Cabanis, 1847",Pipridae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,5
+5164034472,"Tangara palmarum (Wied-Neuwied, 1821)",Thraupidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,2
+5299846737,"Myiozetetes similis (Spix, 1825)",Tyrannidae,Passeriformes,2024-02-14,HUMAN_OBSERVATION,-20.342585,-46.859455,Minas Gerais,,obsr4596723,7
+4738580226,"Todirostrum cinereum (Linnaeus, 1766)",Tyrannidae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,2
+5714205923,"Pygochelidon cyanoleuca (Vieillot, 1817)",Hirundinidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,2
+4730708552,"Pseudoleistes guirahuro (Vieillot, 1819)",Icteridae,Passeriformes,2023-11-03,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,7
+5633205948,"Zonotrichia capensis (P.L.S.Müller, 1776)",Passerellidae,Passeriformes,2022-10-12,HUMAN_OBSERVATION,-20.317621,-46.837254,Minas Gerais,,obsr3010636,4
+5164114469,"Colonia colonus (Vieillot, 1818)",Tyrannidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,7
+5154233732,"Fluvicola nengeta (Linnaeus, 1766)",Tyrannidae,Passeriformes,2025-04-28,HUMAN_OBSERVATION,-20.349078,-46.843924,Minas Gerais,iNaturalist research-grade observations,Bianca Braga,4
+5326602331,"Scytalopus petrophilus B.M.Whitney, Vasconcelos, Silveira & Pacheco, 2010",Rhinocryptidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097414,-43.485508,Minas Gerais,,obsr1426674,6
+4634902688,"Pitangus sulphuratus (Linnaeus, 1766)",Tyrannidae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,1
+5231552379,"Zonotrichia capensis (P.L.S.Müller, 1776)",Passerellidae,Passeriformes,2025-07-08T16:03,HUMAN_OBSERVATION,-20.098353,-43.488643,Minas Gerais,iNaturalist research-grade observations,bzyborski,5
+5506898565,"Furnarius rufus (Gmelin, 1788)",Furnariidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,5
+4670490210,"Sicalis flaveola (Linnaeus, 1766)",Thraupidae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,10
+5332258078,"Patagioenas picazuro (Temminck, 1813)",Columbidae,Columbiformes,2024-12-08,HUMAN_OBSERVATION,-20.343323,-46.847748,Minas Gerais,,obsr3387929,2
+5164083440,"Tangara cayana (Linnaeus, 1766)",Thraupidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,1
+5366721678,"Daptrius Vieillot, 1816",Falconidae,Falconiformes,2024-01-07,HUMAN_OBSERVATION,-20.098928,-43.49928,Minas Gerais,,obsr1883460,10
+5070131474,"Hemithraupis ruficapilla (Vieillot, 1818)",Thraupidae,Passeriformes,2025-02-15T09:45,HUMAN_OBSERVATION,-20.09848,-43.488959,Minas Gerais,iNaturalist research-grade observations,filipeprates,7
+5405455188,"Cariama cristata (Linnaeus, 1766)",Cariamidae,Cariamiformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,2
+4674631635,"Camptostoma obsoletum (Temminck, 1824)",Tyrannidae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,5
+5638594248,"Patagioenas picazuro (Temminck, 1813)",Columbidae,Columbiformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr3387929,6
+5164134458,"Tangara cyanoventris (Vieillot, 1819)",Thraupidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,2
+5341745671,"Thraupis sayaca (Linnaeus, 1766)",Thraupidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097754,-43.48859,Minas Gerais,,obsr1426674,10
+5070086402,"Colonia colonus (Vieillot, 1818)",Tyrannidae,Passeriformes,2025-02-15T13:20,HUMAN_OBSERVATION,-20.097129,-43.488827,Minas Gerais,iNaturalist research-grade observations,filipeprates,2
+4629698477,"Nystalus chacuru (Vieillot, 1816)",Bucconidae,Piciformes,2023-11-03,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,7
+5448441941,"Athene cunicularia (Molina, 1782)",Strigidae,Strigiformes,2024-12-07,HUMAN_OBSERVATION,-20.339453,-46.83927,Minas Gerais,,obsr3387929,8
+3221565939,"Eupetomena macroura (J.F.Gmelin, 1788)",Trochilidae,Apodiformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1211577,3
+4691565224,"Tyrannus albogularis Burmeister, 1856",Tyrannidae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,2
+5540870913,"Eupetomena macroura (J.F.Gmelin, 1788)",Trochilidae,Apodiformes,2024-02-14,HUMAN_OBSERVATION,-20.342585,-46.859455,Minas Gerais,,obsr4596723,6
+5395277527,"Chrysomus ruficapillus (Vieillot, 1819)",Icteridae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr3387929,5
+5592436336,"Dendrocygna viduata (Linnaeus, 1766)",Anatidae,Anseriformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr2661064,3
+5318333319,"Alipiopsitta xanthops (Spix, 1824)",Psittacidae,Psittaciformes,2024-12-08,HUMAN_OBSERVATION,-20.340004,-46.8453,Minas Gerais,,obsr2661064,9
+5198842132,"Colonia colonus (Vieillot, 1818)",Tyrannidae,Passeriformes,2025-06-11T15:18:12,HUMAN_OBSERVATION,-20.097455,-43.488465,Minas Gerais,iNaturalist research-grade observations,paulapadrao,6
+5572070417,"Psittacara leucophthalmus (Müller & Pls, 1776)",Psittacidae,Psittaciformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr2661064,10
+5164075403,"Phylloscartes ventralis (Temminck, 1824)",Tyrannidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,5
+3745700257,"Xolmis velatus (Lichtenstein, 1823)",Tyrannidae,Passeriformes,1973-07-23,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,1
+5310940394,"Furnarius rufus (Gmelin, 1788)",Furnariidae,Passeriformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,7
+5472598633,"Cyanocorax chrysops (Vieillot, 1818)",Corvidae,Passeriformes,2024-12-08,HUMAN_OBSERVATION,-20.343323,-46.847748,Minas Gerais,,obsr3387929,7
+3745699981,"Mimus saturninus (Lichtenstein, 1823)",Mimidae,Passeriformes,1974-02-08,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,5
+5356882274,"Chlorophonia cyanea (Thunberg, 1822)",Fringillidae,Passeriformes,2024-01-27,HUMAN_OBSERVATION,-20.15265,-43.520786,Minas Gerais,,obsr753626,3
+5167047670,"Guira guira (Gmelin, 1788)",Cuculidae,Cuculiformes,2025-05-13T08:47,HUMAN_OBSERVATION,-19.526238,-43.72793,Minas Gerais,iNaturalist research-grade observations,Túlio Torres,9
+5070010200,"Augastes scutatus (Temminck, 1824)",Trochilidae,Apodiformes,2025-02-15T06:25,HUMAN_OBSERVATION,-20.101658,-43.500868,Minas Gerais,iNaturalist research-grade observations,filipeprates,10
+5104486110,"Lepidocolaptes angustirostris (Vieillot, 1818)",Furnariidae,Passeriformes,2025-03-22T16:11,HUMAN_OBSERVATION,-20.392358,-46.83808,Minas Gerais,iNaturalist research-grade observations,Jordi Janssen,7
+5446715687,"Icterus pyrrhopterus (Vieillot, 1819)",Icteridae,Passeriformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,5
+4730351180,"Aratinga auricapillus (Kuhl, 1820)",Psittacidae,Psittaciformes,2023-11-05,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,10
+3218673454,"Furnarius rufus (Gmelin, 1788)",Furnariidae,Passeriformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1127182,7
+5363975396,"Sporophila caerulescens (Vieillot, 1823)",Thraupidae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr3387929,7
+3745700172,"Aratinga aurea (Gmelin, 1788)",Psittacidae,Psittaciformes,1973-12-18,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,2
+5361151980,"Pardirallus nigricans (Vieillot, 1819)",Rallidae,Gruiformes,2024-01-29,HUMAN_OBSERVATION,-20.097414,-43.485508,Minas Gerais,,obsr553166,5
+5474523508,"Cathartes aura (Linnaeus, 1758)",Cathartidae,Accipitriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,10
+5352657362,"Phaethornis eurynome (R.Lesson, 1832)",Trochilidae,Apodiformes,2024-01-06,HUMAN_OBSERVATION,-20.097754,-43.48859,Minas Gerais,,obsr398519,8
+3221076398,"Eupetomena macroura (J.F.Gmelin, 1788)",Trochilidae,Apodiformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1127182,3
+5363814313,"Trichothraupis melanops (Vieillot, 1818)",Thraupidae,Passeriformes,2024-01-27,HUMAN_OBSERVATION,-20.15265,-43.520786,Minas Gerais,,obsr753626,5
+5368110942,"Chlorophonia cyanea (Thunberg, 1822)",Fringillidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097414,-43.485508,Minas Gerais,,obsr553166,6
+4745618154,"Psittacara leucophthalmus (Müller & Pls, 1776)",Psittacidae,Psittaciformes,2023-11-05,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,1
+5549684419,"Tangara cyanoventris (Vieillot, 1819)",Thraupidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.643545,-43.52514,Minas Gerais,,obsr1359206,3
+5164104418,"Passer domesticus (Linnaeus, 1758)",Passeridae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,2
+5301654063,"Elaenia flavogaster (Thunberg, 1822)",Tyrannidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097754,-43.48859,Minas Gerais,,obsr1426674,6
+4821505809,"Xolmis velatus (Lichtenstein, 1823)",Tyrannidae,Passeriformes,2023-11-03,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,8
+5310940410,"Xolmis velatus (Lichtenstein, 1823)",Tyrannidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,5
+2134295836,"Cariama cristata (Linnaeus, 1766)",Cariamidae,Cariamiformes,2018-01-21,HUMAN_OBSERVATION,-19.516483,-43.691593,Minas Gerais,,obsr1011557,8
+5510980002,"Piaya cayana (Linnaeus, 1766)",Cuculidae,Cuculiformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,3
+5360885289,"Tyto furcata (Temminck, 1827)",Tytonidae,Strigiformes,2024-12-07,HUMAN_OBSERVATION,-20.343243,-46.847675,Minas Gerais,,obsr3387929,1
+4667681276,"Troglodytes musculus J.F.Naumann, 1823",Troglodytidae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,4
+5656110081,"Coryphospingus cucullatus (P.L.S.Müller, 1776)",Thraupidae,Passeriformes,2022-10-12,HUMAN_OBSERVATION,-20.317621,-46.837254,Minas Gerais,,obsr3010636,4
+5070051487,"Myiophobus fasciatus (Statius Muller, 1776)",Tyrannidae,Passeriformes,2025-02-15T14:17,HUMAN_OBSERVATION,-20.095438,-43.483364,Minas Gerais,iNaturalist research-grade observations,filipeprates,6
+5621149974,"Thraupis sayaca (Linnaeus, 1766)",Thraupidae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr2661064,10
+5461655657,"Daptrius Vieillot, 1816",Falconidae,Falconiformes,2024-12-07,HUMAN_OBSERVATION,-20.339453,-46.83927,Minas Gerais,,obsr3387929,4
+3745699769,"Xolmis cinereus (Vieillot, 1816)",Tyrannidae,Passeriformes,1974-02-08,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,10
+5443723920,"Patagioenas cayennensis (Bonnaterre, 1792)",Columbidae,Columbiformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,7
+5070141541,"Stilpnia cayana (Linnaeus, 1766)",Thraupidae,Passeriformes,2025-02-15T09:32,HUMAN_OBSERVATION,-20.098568,-43.489101,Minas Gerais,iNaturalist research-grade observations,filipeprates,5
+5164129344,"Milvago chimachima (Vieillot, 1816)",Falconidae,Falconiformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,9
+5070080598,"Colonia colonus (Vieillot, 1818)",Tyrannidae,Passeriformes,2025-02-15T13:21,HUMAN_OBSERVATION,-20.097019,-43.488964,Minas Gerais,iNaturalist research-grade observations,filipeprates,10
+3745700161,"Aratinga aurea (Gmelin, 1788)",Psittacidae,Psittaciformes,1973-12-18,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,O. Froehlich,4
+3745699584,"Tangara cayana (Linnaeus, 1766)",Thraupidae,Passeriformes,1973-07-21,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Antônio Corrêa Filho,6
+5415311645,"Synallaxis frontalis Pelzeln, 1859",Furnariidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.635796,-43.524536,Minas Gerais,,obsr1359206,6
+3745700118,"Turdus leucomelas Vieillot, 1818",Turdidae,Passeriformes,1974-02-08,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,5
+2717608669,"Coryphospingus pileatus (Wied-Neuwied, 1821)",Thraupidae,Passeriformes,2016-10-14,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,4
+5422247123,"Troglodytes musculus J.F.Naumann, 1823",Troglodytidae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,7
+5518648568,"Psittacara leucophthalmus (Müller & Pls, 1776)",Psittacidae,Psittaciformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,8
+5164134396,"Phacellodomus rufifrons (Wied-Neuwied, 1821)",Furnariidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,5
+5164149340,"Hemithraupis ruficapilla (Vieillot, 1818)",Thraupidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,7
+5357804919,"Scytalopus petrophilus B.M.Whitney, Vasconcelos, Silveira & Pacheco, 2010",Rhinocryptidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097414,-43.485508,Minas Gerais,,obsr3066956,5
+5070066497,"Knipolegus nigerrimus (Vieillot, 1818)",Tyrannidae,Passeriformes,2025-02-15T17:57,HUMAN_OBSERVATION,-20.098286,-43.488673,Minas Gerais,iNaturalist research-grade observations,filipeprates,5
+5354477579,"Butorides striata (Linnaeus, 1758)",Ardeidae,Pelecaniformes,2024-02-14,HUMAN_OBSERVATION,-20.342585,-46.859455,Minas Gerais,,obsr4596723,9
+5164014395,"Eleoscytalopus indigoticus (Wied-Neuwied, 1831)",Rhinocryptidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,7
+4806408427,"Eupetomena macroura (J.F.Gmelin, 1788)",Trochilidae,Apodiformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,10
+5305974645,"Psittacara leucophthalmus (Müller & Pls, 1776)",Psittacidae,Psittaciformes,2024-01-29,HUMAN_OBSERVATION,-20.097754,-43.48859,Minas Gerais,,obsr553166,7
+2787896867,"Dacnis cayana (Linnaeus, 1766)",Thraupidae,Passeriformes,2016-10-14,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,3
+3745700068,"Tangara cayana (Linnaeus, 1766)",Thraupidae,Passeriformes,1974-11-10,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,2
+5163998452,"Augastes scutatus (Temminck, 1824)",Trochilidae,Apodiformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,6
+5359027932,"Elaenia cristata Pelzeln, 1868",Tyrannidae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,5
+3745699754,"Xolmis velatus (Lichtenstein, 1823)",Tyrannidae,Passeriformes,1974-04-07,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,8
+5580378388,"Aratinga auricapillus (Kuhl, 1820)",Psittacidae,Psittaciformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,9
+5164049318,"Trichothraupis melanops (Vieillot, 1818)",Thraupidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,5
+2716374615,"Augastes scutatus (Temminck, 1824)",Trochilidae,Apodiformes,2016-10-14,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,10
+3745699583,"Mimus saturninus (Lichtenstein, 1823)",Mimidae,Passeriformes,1973-07-21,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,5
+2716438058,"Schistochlamys ruficapillus (Vieillot, 1817)",Thraupidae,Passeriformes,2016-10-15,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,10
+2789596038,"Furnarius rufus (Gmelin, 1788)",Furnariidae,Passeriformes,2016-10-16,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,1
+5070080599,"Chlorostilbon lucidus (Shaw, 1812)",Trochilidae,Apodiformes,2025-02-15T14:38,HUMAN_OBSERVATION,-20.096277,-43.48222,Minas Gerais,iNaturalist research-grade observations,filipeprates,3
+5343467983,"Mackenziaena leachii (Such, 1825)",Thamnophilidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.098928,-43.49928,Minas Gerais,,obsr306297,3
+5346843484,"Primolius maracana (Vieillot, 1816)",Psittacidae,Psittaciformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,10
+5597949155,"Myiarchus ferox (Gmelin, 1789)",Tyrannidae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr2661064,1
+5569700023,"Vanellus chilensis (Molina, 1782)",Charadriidae,Charadriiformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,8
+3745700189,"Cyclarhis gujanensis (Gmelin, 1789)",Vireonidae,Passeriformes,1973-07-23,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Antônio Corrêa Filho,5
+5333109111,"Scytalopus petrophilus B.M.Whitney, Vasconcelos, Silveira & Pacheco, 2010",Rhinocryptidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097414,-43.485508,Minas Gerais,,obsr553166,5
+4826108816,"Sporophila plumbea (Wied-Neuwied, 1830)",Thraupidae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,10
+5371423350,"Stilpnia cayana (Linnaeus, 1766)",Thraupidae,Passeriformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,7
+3203318403,"Chiroxiphia Cabanis, 1847",Pipridae,Passeriformes,2020-12-20,HUMAN_OBSERVATION,-20.315615,-46.833275,Minas Gerais,,obsr1115302,3
+5838008716,"Pionus maximiliani (Kuhl, 1820)",Psittacidae,Psittaciformes,2025-09-27T16:24:39,HUMAN_OBSERVATION,-20.114161,-43.48542,Minas Gerais,iNaturalist research-grade observations,Filipe Madeira,7
+5622551850,"Furnarius figulus (Lichtenstein, 1823)",Furnariidae,Passeriformes,2024-02-14,HUMAN_OBSERVATION,-20.342585,-46.859455,Minas Gerais,,obsr4596723,3
+5661992187,"Buteogallus meridionalis (Latham, 1790)",Accipitridae,Accipitriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,5
+3223884834,"Thraupis palmarum (Wied-Neuwied, 1821)",Thraupidae,Passeriformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1211577,3
+5840022871,"Embernagra longicauda Strickland, 1844",Thraupidae,Passeriformes,2025-08-30T13:47,HUMAN_OBSERVATION,-20.104809,-43.493328,Minas Gerais,iNaturalist research-grade observations,Gabriel CAUCANAS,5
+5069995882,"Embernagra longicauda Strickland, 1844",Thraupidae,Passeriformes,2025-02-14T16:26,HUMAN_OBSERVATION,-20.106199,-43.47523,Minas Gerais,iNaturalist research-grade observations,filipeprates,9
+5552947193,"Crypturellus parvirostris (Wagler, 1827)",Tinamidae,Tinamiformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,10
+5415211463,"Satrapa icterophrys (Vieillot, 1818)",Tyrannidae,Passeriformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,10
+5531503584,"Sporophila nigricollis (Vieillot, 1823)",Thraupidae,Passeriformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,6
+3745700192,"Saltator similis d'Orbigny & Lafresnaye, 1837",Thraupidae,Passeriformes,1973-07-25,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Antônio Corrêa Filho,3
+5070020886,"Poecilotriccus plumbeiceps (Lafresnaye, 1846)",Tyrannidae,Passeriformes,2025-02-14T15:39,HUMAN_OBSERVATION,-20.101925,-43.484395,Minas Gerais,iNaturalist research-grade observations,filipeprates,8
+5407820680,"Thraupis sayaca (Linnaeus, 1766)",Thraupidae,Passeriformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,6
+5164004315,"Turdus leucomelas Vieillot, 1818",Turdidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,8
+4836425828,"Thraupis palmarum (Wied-Neuwied, 1821)",Thraupidae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,10
+5163990336,"Trogon aurantius Spix, 1824",Trogonidae,Trogoniformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,1
+5589199718,"Clibanornis rectirostris (M.Wied-Neuwied, 1831)",Furnariidae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,2
+3745700160,"Saltatricula atricollis (Vieillot, 1817)",Thraupidae,Passeriformes,1973-12-17,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,8
+5070089502,"Thamnophilus caerulescens Vieillot, 1816",Thamnophilidae,Passeriformes,2025-02-15T15:22,HUMAN_OBSERVATION,-20.097824,-43.489474,Minas Gerais,iNaturalist research-grade observations,filipeprates,8
+5076888585,"Sicalis flaveola (Linnaeus, 1766)",Thraupidae,Passeriformes,2025-02-16T07:32,HUMAN_OBSERVATION,-20.098359,-43.499269,Minas Gerais,iNaturalist research-grade observations,filipeprates,4
+2778733835,"Coragyps atratus (Bechstein, 1793)",Cathartidae,Accipitriformes,2016-10-16,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,9
+5381693570,"Psittacara leucophthalmus (Müller & Pls, 1776)",Psittacidae,Psittaciformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,1
+5164107409,"Troglodytes aedon musculus J.F.Naumann, 1823",Troglodytidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,2
+2792763806,"Eupetomena macroura (J.F.Gmelin, 1788)",Trochilidae,Apodiformes,2016-10-16,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,10
+5591763790,"Thraupis palmarum (Wied-Neuwied, 1821)",Thraupidae,Passeriformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,10
+2208151617,"Furnarius figulus (Lichtenstein, 1823)",Furnariidae,Passeriformes,2011-10-04,HUMAN_OBSERVATION,-19.514063,-43.748962,Minas Gerais,,obsr486435,6
+3225113005,"Coereba flaveola (Linnaeus, 1758)",Thraupidae,Passeriformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1211577,7
+5070084508,"Todirostrum poliocephalum (Wied-Neuwied, 1831)",Tyrannidae,Passeriformes,2025-02-15T13:25,HUMAN_OBSERVATION,-20.096898,-43.4887,Minas Gerais,iNaturalist research-grade observations,filipeprates,3
+5164025314,"Tangara ornata (Sparrman, 1789)",Thraupidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,5
+5305974359,"Colonia colonus (Vieillot, 1818)",Tyrannidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097754,-43.48859,Minas Gerais,,obsr306297,7
+5840047884,"Calliphlox amethystina (Boddaert, 1783)",Trochilidae,Apodiformes,2025-08-30,HUMAN_OBSERVATION,-20.099584,-43.49144,Minas Gerais,iNaturalist research-grade observations,Gabriel CAUCANAS,3
+5827400280,"Thraupis palmarum (Wied-Neuwied, 1821)",Thraupidae,Passeriformes,2025-09-14T12:11,HUMAN_OBSERVATION,-19.522681,-43.738286,Minas Gerais,iNaturalist research-grade observations,Túlio Torres,4
+5070092548,"Thraupis ornata (Sparrman, 1789)",Thraupidae,Passeriformes,2025-02-15T10:19,HUMAN_OBSERVATION,-20.096051,-43.487487,Minas Gerais,iNaturalist research-grade observations,filipeprates,5
+5164096437,"Piranga flava (Vieillot, 1822)",Cardinalidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,10
+5164065394,"Lochmias nematura (Lichtenstein, 1823)",Furnariidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,6
+5413718552,"Butorides striata (Linnaeus, 1758)",Ardeidae,Pelecaniformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr2661064,6
+5632715732,"Tyrannus melancholicus Vieillot, 1819",Tyrannidae,Passeriformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,6
+2217157168,"Ardea ibis Linnaeus, 1758",Ardeidae,Pelecaniformes,2011-10-04,HUMAN_OBSERVATION,-19.514063,-43.748962,Minas Gerais,,obsr486435,7
+5164114404,"Mionectes rufiventris Cabanis, 1846",Tyrannidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,2
+5487090598,"Cariama cristata (Linnaeus, 1766)",Cariamidae,Cariamiformes,2022-10-12,HUMAN_OBSERVATION,-20.317621,-46.837254,Minas Gerais,,obsr3010636,1
+5076882613,"Chionomesa lactea (R.Lesson, 1832)",Trochilidae,Apodiformes,2025-02-16T07:59,HUMAN_OBSERVATION,-20.097839,-43.490911,Minas Gerais,iNaturalist research-grade observations,filipeprates,4
+5547185430,"Synallaxis spixi P.L.Sclater, 1856",Furnariidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.643545,-43.52514,Minas Gerais,,obsr1359206,4
+4792930469,"Turdus amaurochalinus Cabanis, 1850",Turdidae,Passeriformes,2023-08-23,HUMAN_OBSERVATION,-14.96894,-44.047916,Minas Gerais,,obsr1089201,7
+5522054929,"Saltator similis d'Orbigny & Lafresnaye, 1837",Thraupidae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,8
+5413832274,"Cairina moschata (Linnaeus, 1758)",Anatidae,Anseriformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,7
+5619841551,"Psittacara leucophthalmus (Müller & Pls, 1776)",Psittacidae,Psittaciformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr3387929,7
+5164037324,"Hemitriccus nidipendulus (Wied-Neuwied, 1831)",Tyrannidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,9
+3219332363,"Columbina squammata (R.Lesson, 1831)",Columbidae,Columbiformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1127182,8
+5164079328,"Sarcoramphus papa (Linnaeus, 1758)",Cathartidae,Accipitriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,5
+4843512280,"Turdus leucomelas Vieillot, 1818",Turdidae,Passeriformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,5
+5465884819,"Pitangus sulphuratus (Linnaeus, 1766)",Tyrannidae,Passeriformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,3
+5164073360,"Turdus rufiventris Vieillot, 1818",Turdidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,1
+5325416685,"Patagioenas picazuro (Temminck, 1813)",Columbidae,Columbiformes,2024-01-05,HUMAN_OBSERVATION,-20.1026,-43.494,Minas Gerais,,obsr398519,3
+5528400773,"Tyrannus savana Vieillot, 1808",Tyrannidae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.339453,-46.83927,Minas Gerais,,obsr3387929,2
+5666890775,"Sporophila nigricollis (Vieillot, 1823)",Thraupidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,2
+4738603168,"Pyrrhura frontalis (Vieillot, 1818)",Psittacidae,Psittaciformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,4
+4636649736,"Cariama cristata (Linnaeus, 1766)",Cariamidae,Cariamiformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,10
+5076894594,"Tyrannus melancholicus Vieillot, 1819",Tyrannidae,Passeriformes,2025-02-16T06:21,HUMAN_OBSERVATION,-20.100069,-43.500295,Minas Gerais,iNaturalist research-grade observations,filipeprates,10
+5420078068,"Tachycineta albiventer (Boddaert, 1783)",Hirundinidae,Passeriformes,2024-12-07,HUMAN_OBSERVATION,-20.342236,-46.857098,Minas Gerais,,obsr2661064,9
+5164065334,"Thalurania glaucopis (J.F.Gmelin, 1788)",Trochilidae,Apodiformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,7
+3745700252,"Furnarius rufus (Gmelin, 1788)",Furnariidae,Passeriformes,1973-07-23,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,7
+5164101418,"Conopophaga lineata (Wied-Neuwied, 1831)",Conopophagidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,4
+5164139338,"Tyrannus melancholicus Vieillot, 1819",Tyrannidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,3
+5692803320,"Jacana jacana (Linnaeus, 1766)",Jacanidae,Charadriiformes,2024-02-14,HUMAN_OBSERVATION,-20.342585,-46.859455,Minas Gerais,,obsr4596723,3
+5415311643,"Lathrotriccus euleri (Cabanis, 1868)",Tyrannidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.643545,-43.52514,Minas Gerais,,obsr1359206,1
+3745700176,"Turdus rufiventris Vieillot, 1818",Turdidae,Passeriformes,1973-07-24,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,6
+5164096410,"Thalurania glaucopis (J.F.Gmelin, 1788)",Trochilidae,Apodiformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,10
+5070006951,"Colonia colonus (Vieillot, 1818)",Tyrannidae,Passeriformes,2025-02-14T17:31,HUMAN_OBSERVATION,-20.099585,-43.485049,Minas Gerais,iNaturalist research-grade observations,filipeprates,4
+3745700211,"Piranga flava (Vieillot, 1822)",Cardinalidae,Passeriformes,1973-09-03,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,5
+5408868355,"Hemithraupis ruficapilla (Vieillot, 1818)",Thraupidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.635796,-43.524536,Minas Gerais,,obsr1359206,3
+5640631112,"Tyrannus albogularis Burmeister, 1856",Tyrannidae,Passeriformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,9
+5070108945,"Stilpnia cayana (Linnaeus, 1766)",Thraupidae,Passeriformes,2025-02-14T15:27,HUMAN_OBSERVATION,-20.100527,-43.485054,Minas Gerais,iNaturalist research-grade observations,filipeprates,5
+5394999561,"Coereba flaveola (Linnaeus, 1758)",Thraupidae,Passeriformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,1
+5322635150,"Synallaxis spixi P.L.Sclater, 1856",Furnariidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097414,-43.485508,Minas Gerais,,obsr553166,4
+5164122343,"Cranioleuca pallida (Wied-Neuwied, 1831)",Furnariidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,7
+5357503933,"Coereba flaveola (Linnaeus, 1758)",Thraupidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097754,-43.48859,Minas Gerais,,obsr3066956,7
+5564883059,"Pitangus sulphuratus (Linnaeus, 1766)",Tyrannidae,Passeriformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,1
+5164142396,"Pardirallus nigricans (Vieillot, 1819)",Rallidae,Gruiformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,5
+5355908899,"Gnorimopsar chopi (Vieillot, 1819)",Icteridae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,7
+3745700565,"Colibri serrirostris (Vieillot, 1816)",Trochilidae,Apodiformes,1973-07-22,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,8
+5381211163,"Columbina talpacoti (Temminck, 1810)",Columbidae,Columbiformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,7
+5428544153,"Ramphastos toco P.L.S.Müller, 1776",Ramphastidae,Piciformes,2024-07-18,HUMAN_OBSERVATION,-20.332607,-46.83823,Minas Gerais,,obsr2661064,10
+3745700132,"Mimus saturninus (Lichtenstein, 1823)",Mimidae,Passeriformes,1973-09-05,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Ivan Sazima,8
+5063284850,"Penelope obscura Temminck, 1815",Cracidae,Galliformes,2025-01-13T11:16,HUMAN_OBSERVATION,-20.097667,-43.488809,Minas Gerais,iNaturalist research-grade observations,Diego Rolim,1
+2713249668,"Turdus rufiventris Vieillot, 1818",Turdidae,Passeriformes,2016-10-15,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,1
+5307098939,"Turdus rufiventris Vieillot, 1818",Turdidae,Passeriformes,2024-01-29,HUMAN_OBSERVATION,-20.097414,-43.485508,Minas Gerais,,obsr3066956,8
+5164042358,"Phaethornis eurynome (R.Lesson, 1832)",Trochilidae,Apodiformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,5
+5368901040,"Columbina squammata (R.Lesson, 1831)",Columbidae,Columbiformes,2024-02-03,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,10
+5164028397,"Herpsilochmus atricapillus Pelzeln, 1868",Thamnophilidae,Passeriformes,2025-05-07T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,8
+3745700229,"Turdus leucomelas Vieillot, 1818",Turdidae,Passeriformes,1973-07-21,PRESERVED_SPECIMEN,-19.513611,-43.744722,Minas Gerais,,Otávio Cardozo de Oliveira,10
+5348333994,"Sicalis flaveola (Linnaeus, 1766)",Thraupidae,Passeriformes,2024-07-16,HUMAN_OBSERVATION,-20.325893,-46.83702,Minas Gerais,,obsr2661064,4
+4374947417,"Cyanocorax cristatellus (Temminck, 1823)",Corvidae,Passeriformes,2022-08-21,HUMAN_OBSERVATION,-19.488182,-43.732853,Minas Gerais,,obsr467819,5
+4833896184,"Columbina talpacoti (Temminck, 1810)",Columbidae,Columbiformes,2023-11-04,HUMAN_OBSERVATION,-20.34504,-46.86136,Minas Gerais,,obsr1149399,5
+2781357736,"Coryphospingus pileatus (Wied-Neuwied, 1821)",Thraupidae,Passeriformes,2016-10-16,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,3
+2194444164,"Turdus leucomelas Vieillot, 1818",Turdidae,Passeriformes,2016-10-14,HUMAN_OBSERVATION,-19.52946,-43.73666,Minas Gerais,,obsr3541,5
+5634567298,"Sporophila leucoptera (Vieillot, 1817)",Thraupidae,Passeriformes,2024-02-04,HUMAN_OBSERVATION,-19.606527,-43.495632,Minas Gerais,,obsr1359206,4
+3230422842,"Sicalis flaveola (Linnaeus, 1766)",Thraupidae,Passeriformes,2020-02-23,HUMAN_OBSERVATION,-20.343294,-46.84829,Minas Gerais,,obsr1211577,1
+5164032389,"Phacellodomus rufifrons (Wied-Neuwied, 1821)",Furnariidae,Passeriformes,2025-05-08T00:00,HUMAN_OBSERVATION,-20.097401,-43.487988,,,794562383,9
+5167443206,"Machetornis rixosa (Vieillot, 1819)",Tyrannidae,Passeriformes,2025-05-14T09:40,HUMAN_OBSERVATION,-19.526294,-43.727825,Minas Gerais,iNaturalist research-grade observations,Túlio Torres,6
