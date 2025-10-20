@@ -80,3 +80,4 @@ Metodologia e escolhas:
 - Exportação: CSV para análise tabular e Shapefile para visualização em GIS.
 
 ### PASTA 7 - Mapa Interativo
+- Caso não consigam avaliá-lo por aqui, pois está em formato .HTML, o mesmo foi anexado ao mesmo e-mail que contém o link de acesso a este repositório.
