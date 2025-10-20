@@ -1,8 +1,8 @@
 README!!!
 
-Obs: Todos os itens descritos abaixo foram executados em ambiente Python. As estruturas de desenvolvimento dos códigos, assim como sua execução, serão demonstradas no dia da apresentação dos dados.
+Obs: Todos os itens descritos abaixo foram executados em ambiente Python. A "PASTA 1", referente ao códigos desenvolvidos, não é pública, logo, as estruturas de desenvolvimento dos códigos, assim como as suas execuções, serão demonstradas no dia da apresentação dos dados.
 
-###### Descrição do conteúdos das pastas e metodologias ######
+### Descrição do conteúdos das pastas e metodologias
 
 ### PASTA 2 – Limites de calibração, baixados de plataformas de dados livres, referentes aos polígonos das UCs federais nos limites do estado de Minas Gerais
 
